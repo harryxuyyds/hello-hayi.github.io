@@ -1,10 +1,11 @@
+https://hello-hayi.github.io/2023/10/22/FSCTF-2023-WriteUp/
 https://hello-hayi.github.io/about/index.html
 https://hello-hayi.github.io/link/index.html
-https://hello-hayi.github.io/2024/02/04/Test/
 https://hello-hayi.github.io/2024/02/04/hello-world/
-https://hello-hayi.github.io/2023/10/23/FSCTF-WP/
 https://hello-hayi.github.io/resources/index.html
 https://hello-hayi.github.io/tags/index.html
 https://hello-hayi.github.io/categories/index.html
 https://hello-hayi.github.io/
+https://hello-hayi.github.io/tags/CTF/
+https://hello-hayi.github.io/tags/WriteUp/
 https://hello-hayi.github.io/categories/CTF/
