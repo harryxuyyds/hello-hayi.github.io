@@ -1,3 +1,4 @@
+https://hello-hayi.github.io/2024/02/08/Johnny-Keep-Walking/
 https://hello-hayi.github.io/about/index.html
 https://hello-hayi.github.io/2023/10/22/FSCTF-2023-WriteUp/
 https://hello-hayi.github.io/2023/11/13/NSSCTF-2023-WriteUp/
@@ -9,4 +10,7 @@ https://hello-hayi.github.io/categories/index.html
 https://hello-hayi.github.io/
 https://hello-hayi.github.io/tags/CTF/
 https://hello-hayi.github.io/tags/WriteUp/
+https://hello-hayi.github.io/tags/%E5%BD%B1%E8%A7%86/
+https://hello-hayi.github.io/tags/%E6%80%9D%E6%83%B3/
 https://hello-hayi.github.io/categories/CTF/
+https://hello-hayi.github.io/categories/%E6%97%A5%E5%B8%B8/

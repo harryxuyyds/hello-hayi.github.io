@@ -9,8 +9,36 @@
     <atom:link href="https://hello-hayi.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Stay hungry, stay foolish!</description>
-    <pubDate>Sun, 04 Feb 2024 12:48:00 GMT</pubDate>
+    <pubDate>Thu, 08 Feb 2024 04:55:03 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>《年会不能停》：我不算理想主义，我只想无愧自己</title>
+      <link>https://hello-hayi.github.io/2024/02/08/Johnny-Keep-Walking/</link>
+      <guid>https://hello-hayi.github.io/2024/02/08/Johnny-Keep-Walking/</guid>
+      <pubDate>Wed, 07 Feb 2024 17:02:20 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;写在本文之前&quot;&gt;&lt;a href=&quot;#写在本文之前&quot; class=&quot;headerlink&quot; title=&quot;写在本文之前&quot;&gt;&lt;/a&gt;写在本文之前&lt;/h1&gt;&lt;p&gt;本文写于 2 月 8 日凌晨…&lt;br&gt;很显然，这才是这个站点的第一篇推文。截止 2 月 8 日凌晨，我的这个</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="写在本文之前"><a href="#写在本文之前" class="headerlink" title="写在本文之前"></a>写在本文之前</h1><p>本文写于 2 月 8 日凌晨…<br>很显然，这才是这个站点的第一篇推文。截止 2 月 8 日凌晨，我的这个小博客网站只有 3 篇文章，两篇是去年写的 CTF WriteUp，一篇是构建 HEXO 框架的时候自动生成的，而这篇才是原生意义的第一篇文章。原本的想法是写写自己这些天建站的小心得，也许能帮到后来者少走些弯路呢哈哈。但是昨天突然免费看了场电影，而且完美对齐了我的颗粒度，我觉得以此作为此站的起始更为合适哈哈。<br>又说了这么多废话哈哈哈，那么下面就开始正题吧！<br>凌晨有感，随心而写，比较凌乱…</p><hr><p><strong>Coming Soon…</strong></p>]]></content:encoded>
+      
+      
+      <category domain="https://hello-hayi.github.io/categories/%E6%97%A5%E5%B8%B8/">日常</category>
+      
+      
+      <category domain="https://hello-hayi.github.io/tags/%E5%BD%B1%E8%A7%86/">影视</category>
+      
+      <category domain="https://hello-hayi.github.io/tags/%E6%80%9D%E6%83%B3/">思想</category>
+      
+      
+      <comments>https://hello-hayi.github.io/2024/02/08/Johnny-Keep-Walking/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hello-hayi.github.io/2024/02/08/Johnny-Keep-Walking/</loc>
+    
+    <lastmod>2024-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hello-hayi.github.io/about/index.html</loc>
     
     <lastmod>2024-02-07</lastmod>
@@ -96,10 +105,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://hello-hayi.github.io/tags/%E5%BD%B1%E8%A7%86/</loc>
+    <lastmod>2024-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hello-hayi.github.io/tags/%E6%80%9D%E6%83%B3/</loc>
+    <lastmod>2024-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://hello-hayi.github.io/categories/CTF/</loc>
+    <lastmod>2024-02-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hello-hayi.github.io/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2024-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
