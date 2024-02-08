@@ -28,9 +28,7 @@
       
         
         
-    <summary type="html">&lt;h1&gt;写在本文之前&lt;/h1&gt;
-&lt;p&gt;本文写于 2 月 8 日凌晨…&lt;br&gt;
-很显然，这才是这个站点的第一篇推文。截止 2 月 8 日凌晨，我的这个小博客网站只有 3 篇文章，两篇是去年写的 CTF WriteUp，一篇是构建 HEXO</summary>
+    <summary type="html">&lt;h1 id=&quot;写在本文之前&quot;&gt;&lt;a href=&quot;#写在本文之前&quot; class=&quot;headerlink&quot; title=&quot;写在本文之前&quot;&gt;&lt;/a&gt;写在本文之前&lt;/h1&gt;&lt;p&gt;本文写于 2 月 8 日凌晨…&lt;br&gt;很显然，这才是这个站点的第一篇推文。截止 2 月 8</summary>
         
       
     
@@ -78,10 +76,7 @@
       
         
         
-    <summary type="html">&lt;h1&gt;WEEK1|MISC&lt;/h1&gt;
-&lt;h2 id=&quot;CyberChef’s-Secret&quot;&gt;CyberChef’s Secret&lt;/h2&gt;
-&lt;p&gt;先看题目，为编码转换类型。&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;h1 id=&quot;WEEK1-MISC&quot;&gt;&lt;a href=&quot;#WEEK1-MISC&quot; class=&quot;headerlink&quot; title=&quot;WEEK1|MISC&quot;&gt;&lt;/a&gt;WEEK1|MISC&lt;/h1&gt;&lt;h2 id=&quot;CyberChef’s-Secret&quot;&gt;&lt;a</summary>
         
       
     
@@ -112,9 +107,7 @@
 &lt;p&gt;总排名：8&lt;/p&gt;
 &lt;p&gt;分数：6696&lt;/p&gt;
 &lt;p&gt;解题数：19&lt;/p&gt;
-&lt;h1&gt;WEB - 源码！启动！&lt;/h1&gt;
-&lt;p&gt;先看题目：”源码“提示可能需要查看网页源代码。&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
+&lt;h1 id=&quot;WEB-源码！启动！&quot;&gt;&lt;a href=&quot;#WEB-源码！启动！&quot; class=&quot;headerlink&quot; title=&quot;WEB -</summary>
         
       
     
