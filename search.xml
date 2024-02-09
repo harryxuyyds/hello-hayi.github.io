@@ -1,101 +1,290 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>《年会不能停》：我不算理想主义，我只想无愧自己</title>
-      <link href="/2024/02/08/Johnny-Keep-Walking/"/>
-      <url>/2024/02/08/Johnny-Keep-Walking/</url>
-      
-        <content type="html"><![CDATA[<h1 id="写在本文之前"><a href="#写在本文之前" class="headerlink" title="写在本文之前"></a>写在本文之前</h1><p>本文写于 2 月 8 日凌晨…<br>很显然，这才是这个站点的第一篇推文。截止 2 月 8 日凌晨，我的这个小博客网站只有 3 篇文章，两篇是去年写的 CTF WriteUp，一篇是构建 HEXO 框架的时候自动生成的，而这篇才是原生意义的第一篇文章。原本的想法是写写自己这些天建站的小心得，也许能帮到后来者少走些弯路呢哈哈。但是昨天突然免费看了场电影，而且完美对齐了我的颗粒度，我觉得以此作为此站的起始更为合适哈哈。<br>又说了这么多废话哈哈哈，那么下面就开始正题吧！<br>凌晨有感，随心而写，比较凌乱…</p><hr><p><strong>Coming Soon…</strong></p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>《年会不能停》：我不算理想主义，我只想无愧自己</title>
+    <url>/2024/02/08/Johnny-Keep-Walking/</url>
+    <content><![CDATA[<h1 id="写在本文之前"><a href="#写在本文之前" class="headerlink" title="写在本文之前"></a>写在本文之前</h1><p>本文写于 2 月 8 日凌晨…<br>很显然，这才是这个站点的第一篇推文。截止 2 月 8 日凌晨，我的这个小博客网站只有 3 篇文章，两篇是去年写的 CTF WriteUp，一篇是构建 HEXO 框架的时候自动生成的，而这篇才是原生意义的第一篇文章。原本的想法是写写自己这些天建站的小心得，也许能帮到后来者少走些弯路呢哈哈。但是昨天突然免费看了场电影，而且完美对齐了我的颗粒度，我觉得以此作为此站的起始更为合适哈哈。<br>又说了这么多废话哈哈哈，那么下面就开始正题吧！<br>凌晨有感，随心而写，比较凌乱…</p>
+<h1 id="intro"><a href="#intro" class="headerlink" title="intro"></a>intro</h1><p>《年会不能停》，一部上映于去年年底的喜剧电影。万一有人不清楚剧情所以复制了一段过来…</p>
+<p>本片讲述了钳工胡建林阴差阳错被调入集团总部成为金领，在集团年会上揭露了工厂贪腐的高管，最终保住工厂的故事。</p>
+<p>电影描绘了一个普遍存在的公司乱象——互联网大厂的奇怪用语，中层们不干实事却功劳全占，领导们站队吹牛把酒言欢，合同工 996 PPT 熬夜加班，公司业绩不好就开始裁员…</p>
+<h1 id="喜剧-or-not"><a href="#喜剧-or-not" class="headerlink" title="喜剧 or not"></a>喜剧 or not</h1><p>当然啦，看到后半段的我，喜剧片的印象已经全然消失了。电影放映结束之后，我写下了这样一段话：</p>
+<blockquote>
+<p>「我不算理想主义，只想无愧自己」<br>希望我也能成为这样的人<br>过去 当下 未来<br>无愧内心</p>
+</blockquote>
+<p>虽然我也算是常年混迹于那些被戏称「不存在的网站」的人，也算是对国内影片开篇痛批现象、结尾直接 Happy Ending 的主旋律免疫了。不出我的意料，在豆瓣对其的影评中：爽文、鸡汤、奶嘴、精神胜利的关键词占领了很多高赞回答。但是，我还是很想结合自己干过的很多事情，聊聊何为理想主义…</p>
+<p><strong>首先叠甲声明</strong>：个人观点，仅供参考！</p>
+<h1 id="谁来定义正确的事？"><a href="#谁来定义正确的事？" class="headerlink" title="谁来定义正确的事？"></a>谁来定义正确的事？</h1><p>不知不觉间，社会中的很多事情和现象似乎都莫名的有了正确答案：在学校，学生就应当一刻不落的把精力与时间留给学习，甚至很多时候类似于价值观品行都能让路；在职场，打工人接受各种996、007、PUA。不过有时候不妨停下来思索一下：这样真的对吗？至少对于我而言，我无法苟同。</p>
+<h1 id="beat，配享五星太庙"><a href="#beat，配享五星太庙" class="headerlink" title="beat，配享五星太庙"></a>beat，配享五星太庙</h1><blockquote>
+<p>“我的未来不是梦，我认真地过每一分钟，<br>我的未来不是梦，我的心跟着希望在动。<br>我的未来不是梦，我认真地过每一分钟，<br>我的未来不是梦，我的心跟着希望在动。<br>跟着希望在动。”</p>
+<p>“你是不是像我在裁员中忐忑，守着岗位加班加点地工作。<br>你是不是像我就算每天背锅，也放不下五险一金的枷锁。<br>你是不是像我整体幻想能够，不用再看上司的脸色生活。<br>你是不是像我只会懦弱退缩，面对不公就应该打破沉默。”</p>
+<p>“我是马杰克，不是Magic，在K8待了几年没涨钱也没尊严，<br>落个头痛失眠，身体一年不如一年，<br>我干得兢兢业业，上司在莺莺燕燕。”</p>
+<p>“我是外包潘妮潘，脏活累活都我干，<br>功劳簿与我无关，说话从不兜弯弯，<br>我不算理想主义，我只想无愧自己，<br>油腻的酒局 get off me，掌权黑手 can’t beat off me。”</p>
+<p>“我是HR经理庄尼胡，标准件厂钳工胡师傅，<br>调任升职、没人在乎，不懂装懂、心里没谱，<br>啥叫颗粒度啊，整得我挺恍惚，<br>但是没关系，只要站对队伍、拍对马屁就保住前途。”</p>
+<p>“众和是众志成城天地人和，<br>其实不过是众星捧月、一唱一和。<br>基层人心惶惶，中层拉帮结党，<br>黑话说得很棒，表面风光，全是假象。”</p>
+<p>“总裁放个屁，总监翻成句，经理接到命令不能解密，<br>只想逃避，丢给基层，今晚OT，你做个PPT。”</p>
+<p>“做不满意，把他开除，万事大吉。<br>花天酒地，整体称兄道弟，<br>财务危机，贪污腐败不停，<br>自称扁平，等级像丛林。”</p>
+<p>“高楼大厦平地起，埋多少蝼蚁，<br>我是员工，不是奴隶，也想做我自己，<br>这么心酸压抑，有什么意义，<br>公司是一台机器，没有人性，只有目的地。”</p>
+<p>“我们不是螺丝钉，我们是人！<br>人！被无故泄愤。<br>愤！也会恨，不能忍。<br>生活很累，不要气馁，<br>有时会颓，不进则退，<br>但对你们我不会跪。<br>胡师傅说真话从不后悔！”</p>
+<p>“请相信，你的未来不是梦，你认真地过每一分钟，<br>你的未来不是梦，你的坚持都不会落空。<br>我的未来不是梦，从九八年到这一分钟，<br>我的未来不是梦，风雨过后盼一道彩虹。<br>盼一道彩虹！”</p>
+</blockquote>
+<p>愿看到这里的你们都能在生活的不易中找到一点颗粒度，在新的一年中都能无愧自己，新年快乐…</p>
+<hr>
+<p><strong>Coming Soon…</strong></p>
+]]></content>
       <categories>
-          
-          <category> 日常 </category>
-          
+        <category>日常</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 影视 </tag>
-            
-            <tag> 思想 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2024/02/04/hello-world/"/>
-      <url>/2024/02/04/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>NSSCTF 2023 WriteUp</title>
-      <link href="/2023/11/13/NSSCTF-2023-WriteUp/"/>
-      <url>/2023/11/13/NSSCTF-2023-WriteUp/</url>
-      
-        <content type="html"><![CDATA[<h1 id="WEEK1-MISC"><a href="#WEEK1-MISC" class="headerlink" title="WEEK1|MISC"></a>WEEK1|MISC</h1><h2 id="CyberChef’s-Secret"><a href="#CyberChef’s-Secret" class="headerlink" title="CyberChef’s Secret"></a>CyberChef’s Secret</h2><p>先看题目，为编码转换类型。</p><p><img src="https://s2.loli.net/2023/10/31/qAwKjlP3zEBtQVC.png" alt="image.png"></p><p>下载附件得到一串base类型的编码： </p><p><code>M5YHEUTEKFBW6YJWKZGU44CXIEYUWMLSNJLTOZCXIJTWCZD2IZRVG4TJPBSGGWBWHFMXQTDFJNXDQTA=</code></p><p>尝试之后得到解码路径为：base32 - base58 - base64。</p><p>得到Flag为 <strong>flag{Base_15_S0_Easy_^_^}</strong> ，解题完成。</p><h2 id="机密图片"><a href="#机密图片" class="headerlink" title="机密图片"></a>机密图片</h2><p>先看题目，得到信息为图片隐写类型。</p><p><img src="https://s2.loli.net/2023/10/31/fDgFKQn7HdN1BV4.png" alt="image.png"></p><p>下载附件后得到一个二维码，直接扫码无Flag信息。通过StegSolve - Data Extract打开，调整为以下设置。即可得到Flag为 <strong>flag{W3lc0m3_t0_N3wSt4RCTF_2023_7cda3ece}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/10/31/QqLB2W5dSrex8RJ.png" alt="image.png"></p><h2 id="流量！鲨鱼！"><a href="#流量！鲨鱼！" class="headerlink" title="流量！鲨鱼！"></a>流量！鲨鱼！</h2><p>先看题目，发现信息有WireShark，分析需要进行流量分析。</p><p><img src="https://s2.loli.net/2023/10/31/9XaWKcRD8qvz3dS.png" alt="image.png"></p><p>附件下载完成后通过WireShark工具打开。</p><p><img src="https://s2.loli.net/2023/10/31/9paetzuHDnT8yjP.png" alt="image.png"></p><p>打开“文件-导出对象-HTTP…”选项，尝试用文件大小排序。</p><p><img src="https://s2.loli.net/2023/10/31/SbiduphUJZqm1ea.png" alt="image.png"></p><p>大部分大小为271bytes的为HTTP-404，发现一个文件的文件名带有base64字样。</p><p><img src="https://s2.loli.net/2023/10/31/c9GgnQbCWrkseFI.png" alt="image.png"></p><p>将文本导出后使用base64解码，得到Flag为 <strong>flag{Wri35h4rk_1s_u53ful_b72a609537e6}</strong> ，解题完成。</p><h2 id="压缩包们"><a href="#压缩包们" class="headerlink" title="压缩包们"></a>压缩包们</h2><p>先看题目，得到信息：多层压缩包，猜测存在密码。</p><p><img src="https://s2.loli.net/2023/10/31/2Or6ivJqHDg1Mxz.png" alt="image.png"></p><p>下载附件，得到一个不带后缀名的文件，使用wxMEdit工具打开，发现二进制源码符合ZIP压缩文件的特性，但缺少ZIP头文件，因此第一步，修改头文件为<code>504B0304</code>；同时在源码最后发现一串base64 编码的信息，转码得到：<code>I like six-digit numbers because they are very concise and easy to remember.</code>猜测有一层压缩包的密码为6位数字。</p><p>解压第一层压缩包得到一个<code>flag.zip</code>文件，直接解压提示文件损坏，继续使用wxMEdit打开。因为前面得到信息有一层压缩包带密码。因此通过源码加密数据0900标记在压缩包的相应位置，至此即可正常打开第二层压缩包。</p><p>最后使用ARCHPR爆破压缩包密码，打开文本即可得到Flag为 <strong>flag{y0u_ar3_the_m4ter_of_z1111ppp_606a4adc}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/10/31/k5oPKlbQ3eLWMHp.png" alt="image.png"></p><h2 id="空白格"><a href="#空白格" class="headerlink" title="空白格"></a>空白格</h2><p>先看题目，只有信息：空白格。</p><p><img src="https://s2.loli.net/2023/10/31/4LQdIRv7UzMGACt.png" alt="image.png"></p><p>下载附件后，得到一个文本文档，内容全部为空格和TAB键，一开始不清楚具体的编码类型。</p><p>查询博客后得到，“空白格编码”。</p><blockquote><p><strong>WhiteSpace</strong>，是一种只用空白字符（空格，TAB和回车）编程的语言，而其它可见字符统统为注释。</p><p>解码网站：<a href="https://vii5ard.github.io/whitespace/">https://vii5ard.github.io/whitespace/</a></p></blockquote><p>将整个文档内容复制到网站中解码，即可得到Flag为 <strong>flag{w3_h4v3_to0_m4ny_wh1t3_sp4ce_2a5b4e04}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/10/31/nLVqkMh5FKmQiZJ.png" alt="image.png"></p><h2 id="隐秘的眼睛"><a href="#隐秘的眼睛" class="headerlink" title="隐秘的眼睛"></a>隐秘的眼睛</h2><p><img src="https://s2.loli.net/2023/10/31/wmUgJXP1OMZqv8h.png" alt="image.png"></p><p>下载附件之后，不确定图片隐写的方式，所以通过现有的工具一个个尝试。</p><p>最后使用SilentEye工具成功得到Flag为 <strong>flag{R0ck1ng_y0u_63b0dc13a591}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/10/31/uM6htFvlAgGywNS.png" alt="image.png"></p><h1 id="WEEK2-MISC"><a href="#WEEK2-MISC" class="headerlink" title="WEEK2|MISC"></a>WEEK2|MISC</h1><h2 id="新建Word文档"><a href="#新建Word文档" class="headerlink" title="新建Word文档"></a>新建Word文档</h2><p>先看题目，信息有：Word文档。</p><p><img src="https://s2.loli.net/2023/11/02/NcYhf1H8mbKDqFd.png" alt="image.png"></p><p>下载附件后，直接转为ZIP压缩包格式，打开<code>document.xml</code>文件，找到编码信息。</p><p>信息以”新佛曰“开头，与佛论禅密码格式开头为”佛曰“，因此推测新佛曰是一个编码提示。</p><p>通过在线的新约佛论禅解码器，即可得到Flag为 <strong>flag{Th1s_F0_1s_s00_Cyp3r_495586e3df3a}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/11/02/l9TViHsuNhvP1G8.png" alt="image.png"></p><h2 id="永不消逝的电波"><a href="#永不消逝的电波" class="headerlink" title="永不消逝的电波"></a>永不消逝的电波</h2><p>先看题目，信息有：有节奏的声音，推测频谱图中会有摩斯电码。</p><p><img src="https://s2.loli.net/2023/11/02/Gph9nJRsWFyPDbg.png" alt="image.png"></p><p>下载附件后，用Audacity工具打开。将频谱图按照长短转换为摩斯电码格式，解码后即可得到Flag为 <strong>flag{thebestctferisyou}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/11/02/GnsLmkujH91INqd.png" alt="image.png"></p><h2 id="1-序章"><a href="#1-序章" class="headerlink" title="1-序章"></a>1-序章</h2><p>先看题目，很好，进入连续剧模式了……</p><p><img src="https://s2.loli.net/2023/11/02/9lqbdtJBFNHWwC2.png" alt="image.png"></p><p>下载附件后得到一个日志文件，示例数据为：</p><p><code>172.17.0.1 - - [20/Aug/2023:00:08:21 +0800] &quot;GET /app/action/edit_sell.php?pid%5B0%5D=-1%20or%20if(ascii(substr((select%20group_concat(username,password)%20from%20user),1,1))=40,sleep(1),1)--+&amp;totalPrice=0 HTTP/1.1&quot; 500 353 &quot;-&quot; &quot;python-requests/2.28.2&quot;</code></p><p>对比其他行数据可以发现：<code>group_concat</code>之后的数据是不断变化的，表明这里的SQL盲注应该是依次遍历每一位的值，从ASCII码为40的字符开始，直到找到符合的字符就切换到下一个索引位的字符。但是不太确定最终找到的字符是临界的行数据或是下一个ASCII码。</p><p>由于数据量过大，利用Python脚本实现（摸鱼式写法hhh）：</p><p><img src="https://s2.loli.net/2023/11/06/LI8EexvtOfyDqWH.png" alt="image.png"></p><p>大括号内的信息即为Flag，得到Flag为 <strong>flag{just_w4rm_up_s0_you_n3ed_h4rder_6026cd32}</strong> ，解题完成。</p><h2 id="base"><a href="#base" class="headerlink" title="base!"></a>base!</h2><p>先看题目，信息有base编码。下载附件后，发现直接进行base转码会出问题，结合之前刷到的题猜测存在base64隐写。</p><p><img src="https://s2.loli.net/2023/11/03/kcHQMNbs14RGeoE.png" alt="image.png"></p><p>使用Python脚本进行解码，得到一串编码，最后确定是base58编码格式。</p><p>即可得到Flag为 <strong>flag{b4se_1s_4_g0od_c0d3}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/11/03/jy3CKmIESxR1n6i.png" alt="image.png"></p><h2 id="WebShell的利用"><a href="#WebShell的利用" class="headerlink" title="WebShell的利用"></a>WebShell的利用</h2><p><img src="https://s2.loli.net/2023/11/06/iLSEhst4XUwBl6o.png" alt="image.png"></p><p>属实是被这一题干倒了，附件<code>index.php</code>尝试了很多次还是找不到头绪（还有后续，捂脸www）。</p><p>只好求助于大佬们的WP了，呜呜呜。</p><p>使用这一段PHP脚本来对WebShell脚本进行解密。</p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="variable">$shell</span> = <span class="string">&quot;eval(str_rot13(convert_uudecode(str_rot13(base64_decode(&#x27;此处省略题目文件中的编码内容&#x27;)))));&quot;</span>;</span><br><span class="line"><span class="keyword">for</span>(<span class="variable">$i</span>=<span class="number">0</span>; <span class="variable">$i</span>&lt;<span class="number">50</span>; <span class="variable">$i</span>++)&#123;</span><br><span class="line"><span class="keyword">if</span>(<span class="title function_ invoke__">preg_match</span>(<span class="string">&quot;/base64/&quot;</span>,<span class="variable">$shell</span>))&#123;</span><br><span class="line"><span class="variable">$tmp</span> = <span class="title function_ invoke__">preg_replace</span>(<span class="string">&quot;/eval/&quot;</span>,<span class="string">&quot;return &quot;</span>,<span class="variable">$shell</span>);</span><br><span class="line"><span class="variable">$shell</span> = <span class="keyword">eval</span>(<span class="variable">$tmp</span>);</span><br><span class="line">&#125;<span class="keyword">else</span>&#123;</span><br><span class="line"><span class="keyword">break</span>;</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">echo</span> <span class="variable">$shell</span>;</span><br></pre></td></tr></table></figure><p>使用PHPStudy运行后得到：<code>error_reporting(0);($_GET[&#39;7d67973a&#39;])($_POST[&#39;9fa3&#39;]);</code></p><p>接下去开始常规操作，使用HackBar工具，对7d67973a变量GET传参，对9fa3变量POST传参。</p><p><img src="https://s2.loli.net/2023/11/06/ZFbq2TmWALncYBX.png" alt="image.png"></p><p>即可得到Flag为 <strong>flag{53f37ebd-a678-46cc-957b-fd6a3d5b8306}</strong> ，解题完成。</p><p><em>PS. 写到这里突然顿悟了，其实只需要把<code>index.php</code>源码中的<code>eval</code>改为<code>echo</code>，反复运行重复修改即可（如图所示为最后一次的效果），这应该也就是上面那个脚本实现的功能。刚开始做的时候改了一次的效果不明显（文件长度实在太长了，以为没有变化，才会感觉没有头绪），所以一直没有往那个方向去想。这样一想的话，这一题其实也并不是特别难，以后还是要多比较一下解码前后的文件长度才行。</em></p><p><img src="https://s2.loli.net/2023/11/06/2MfFaDeymwi6ptA.png" alt="image.png"></p><h2 id="Jvav"><a href="#Jvav" class="headerlink" title="Jvav"></a>Jvav</h2><p>先看题目，提示说多看看题目名。根据题目名Jvav猜测会和Java有关，结合秘密藏在图片中，应该是隐写类型。</p><p>查阅信息后得到 <strong>Java盲水印(BlindWaterMark)</strong> 这一知识点。</p><p><a href="https://github.com/yxiaojian/blindwatermark">GitHub - Yxiaojian&#x2F;BlindWaterMark: Java盲水印</a></p><p><img src="https://s2.loli.net/2023/11/06/NEhnxqkzMspKLZo.png" alt="image.png"></p><p>在GitHub上搜索可以得到已编译的Java程序，运行即可得到Flag为 <strong>flag{3bb3c3a628a94c}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/11/06/qrePNiy1u7l2dbg.png" alt="image.png"></p>]]></content>
-      
-      
+      <tags>
+        <tag>影视</tag>
+        <tag>思想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/02/04/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>NSSCTF 2023 WriteUp</title>
+    <url>/2023/11/13/NSSCTF-2023-WriteUp/</url>
+    <content><![CDATA[<h1 id="WEEK1-MISC"><a href="#WEEK1-MISC" class="headerlink" title="WEEK1|MISC"></a>WEEK1|MISC</h1><h2 id="CyberChef’s-Secret"><a href="#CyberChef’s-Secret" class="headerlink" title="CyberChef’s Secret"></a>CyberChef’s Secret</h2><p>先看题目，为编码转换类型。</p>
+<p><img src="https://s2.loli.net/2023/10/31/qAwKjlP3zEBtQVC.png" alt="image.png"></p>
+<p>下载附件得到一串base类型的编码： </p>
+<p><code>M5YHEUTEKFBW6YJWKZGU44CXIEYUWMLSNJLTOZCXIJTWCZD2IZRVG4TJPBSGGWBWHFMXQTDFJNXDQTA=</code></p>
+<p>尝试之后得到解码路径为：base32 - base58 - base64。</p>
+<p>得到Flag为 <strong>flag{Base_15_S0_Easy_^_^}</strong> ，解题完成。</p>
+<h2 id="机密图片"><a href="#机密图片" class="headerlink" title="机密图片"></a>机密图片</h2><p>先看题目，得到信息为图片隐写类型。</p>
+<p><img src="https://s2.loli.net/2023/10/31/fDgFKQn7HdN1BV4.png" alt="image.png"></p>
+<p>下载附件后得到一个二维码，直接扫码无Flag信息。通过StegSolve - Data Extract打开，调整为以下设置。即可得到Flag为 <strong>flag{W3lc0m3_t0_N3wSt4RCTF_2023_7cda3ece}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/31/QqLB2W5dSrex8RJ.png" alt="image.png"></p>
+<h2 id="流量！鲨鱼！"><a href="#流量！鲨鱼！" class="headerlink" title="流量！鲨鱼！"></a>流量！鲨鱼！</h2><p>先看题目，发现信息有WireShark，分析需要进行流量分析。</p>
+<p><img src="https://s2.loli.net/2023/10/31/9XaWKcRD8qvz3dS.png" alt="image.png"></p>
+<p>附件下载完成后通过WireShark工具打开。</p>
+<p><img src="https://s2.loli.net/2023/10/31/9paetzuHDnT8yjP.png" alt="image.png"></p>
+<p>打开“文件-导出对象-HTTP…”选项，尝试用文件大小排序。</p>
+<p><img src="https://s2.loli.net/2023/10/31/SbiduphUJZqm1ea.png" alt="image.png"></p>
+<p>大部分大小为271bytes的为HTTP-404，发现一个文件的文件名带有base64字样。</p>
+<p><img src="https://s2.loli.net/2023/10/31/c9GgnQbCWrkseFI.png" alt="image.png"></p>
+<p>将文本导出后使用base64解码，得到Flag为 <strong>flag{Wri35h4rk_1s_u53ful_b72a609537e6}</strong> ，解题完成。</p>
+<h2 id="压缩包们"><a href="#压缩包们" class="headerlink" title="压缩包们"></a>压缩包们</h2><p>先看题目，得到信息：多层压缩包，猜测存在密码。</p>
+<p><img src="https://s2.loli.net/2023/10/31/2Or6ivJqHDg1Mxz.png" alt="image.png"></p>
+<p>下载附件，得到一个不带后缀名的文件，使用wxMEdit工具打开，发现二进制源码符合ZIP压缩文件的特性，但缺少ZIP头文件，因此第一步，修改头文件为<code>504B0304</code>；同时在源码最后发现一串base64 编码的信息，转码得到：<code>I like six-digit numbers because they are very concise and easy to remember.</code>猜测有一层压缩包的密码为6位数字。</p>
+<p>解压第一层压缩包得到一个<code>flag.zip</code>文件，直接解压提示文件损坏，继续使用wxMEdit打开。因为前面得到信息有一层压缩包带密码。因此通过源码加密数据0900标记在压缩包的相应位置，至此即可正常打开第二层压缩包。</p>
+<p>最后使用ARCHPR爆破压缩包密码，打开文本即可得到Flag为 <strong>flag{y0u_ar3_the_m4ter_of_z1111ppp_606a4adc}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/31/k5oPKlbQ3eLWMHp.png" alt="image.png"></p>
+<h2 id="空白格"><a href="#空白格" class="headerlink" title="空白格"></a>空白格</h2><p>先看题目，只有信息：空白格。</p>
+<p><img src="https://s2.loli.net/2023/10/31/4LQdIRv7UzMGACt.png" alt="image.png"></p>
+<p>下载附件后，得到一个文本文档，内容全部为空格和TAB键，一开始不清楚具体的编码类型。</p>
+<p>查询博客后得到，“空白格编码”。</p>
+<blockquote>
+<p><strong>WhiteSpace</strong>，是一种只用空白字符（空格，TAB和回车）编程的语言，而其它可见字符统统为注释。</p>
+<p>解码网站：<a href="https://vii5ard.github.io/whitespace/">https://vii5ard.github.io/whitespace/</a></p>
+</blockquote>
+<p>将整个文档内容复制到网站中解码，即可得到Flag为 <strong>flag{w3_h4v3_to0_m4ny_wh1t3_sp4ce_2a5b4e04}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/31/nLVqkMh5FKmQiZJ.png" alt="image.png"></p>
+<h2 id="隐秘的眼睛"><a href="#隐秘的眼睛" class="headerlink" title="隐秘的眼睛"></a>隐秘的眼睛</h2><p><img src="https://s2.loli.net/2023/10/31/wmUgJXP1OMZqv8h.png" alt="image.png"></p>
+<p>下载附件之后，不确定图片隐写的方式，所以通过现有的工具一个个尝试。</p>
+<p>最后使用SilentEye工具成功得到Flag为 <strong>flag{R0ck1ng_y0u_63b0dc13a591}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/31/uM6htFvlAgGywNS.png" alt="image.png"></p>
+<h1 id="WEEK2-MISC"><a href="#WEEK2-MISC" class="headerlink" title="WEEK2|MISC"></a>WEEK2|MISC</h1><h2 id="新建Word文档"><a href="#新建Word文档" class="headerlink" title="新建Word文档"></a>新建Word文档</h2><p>先看题目，信息有：Word文档。</p>
+<p><img src="https://s2.loli.net/2023/11/02/NcYhf1H8mbKDqFd.png" alt="image.png"></p>
+<p>下载附件后，直接转为ZIP压缩包格式，打开<code>document.xml</code>文件，找到编码信息。</p>
+<p>信息以”新佛曰“开头，与佛论禅密码格式开头为”佛曰“，因此推测新佛曰是一个编码提示。</p>
+<p>通过在线的新约佛论禅解码器，即可得到Flag为 <strong>flag{Th1s_F0_1s_s00_Cyp3r_495586e3df3a}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/11/02/l9TViHsuNhvP1G8.png" alt="image.png"></p>
+<h2 id="永不消逝的电波"><a href="#永不消逝的电波" class="headerlink" title="永不消逝的电波"></a>永不消逝的电波</h2><p>先看题目，信息有：有节奏的声音，推测频谱图中会有摩斯电码。</p>
+<p><img src="https://s2.loli.net/2023/11/02/Gph9nJRsWFyPDbg.png" alt="image.png"></p>
+<p>下载附件后，用Audacity工具打开。将频谱图按照长短转换为摩斯电码格式，解码后即可得到Flag为 <strong>flag{thebestctferisyou}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/11/02/GnsLmkujH91INqd.png" alt="image.png"></p>
+<h2 id="1-序章"><a href="#1-序章" class="headerlink" title="1-序章"></a>1-序章</h2><p>先看题目，很好，进入连续剧模式了……</p>
+<p><img src="https://s2.loli.net/2023/11/02/9lqbdtJBFNHWwC2.png" alt="image.png"></p>
+<p>下载附件后得到一个日志文件，示例数据为：</p>
+<p><code>172.17.0.1 - - [20/Aug/2023:00:08:21 +0800] &quot;GET /app/action/edit_sell.php?pid%5B0%5D=-1%20or%20if(ascii(substr((select%20group_concat(username,password)%20from%20user),1,1))=40,sleep(1),1)--+&amp;totalPrice=0 HTTP/1.1&quot; 500 353 &quot;-&quot; &quot;python-requests/2.28.2&quot;</code></p>
+<p>对比其他行数据可以发现：<code>group_concat</code>之后的数据是不断变化的，表明这里的SQL盲注应该是依次遍历每一位的值，从ASCII码为40的字符开始，直到找到符合的字符就切换到下一个索引位的字符。但是不太确定最终找到的字符是临界的行数据或是下一个ASCII码。</p>
+<p>由于数据量过大，利用Python脚本实现（摸鱼式写法hhh）：</p>
+<p><img src="https://s2.loli.net/2023/11/06/LI8EexvtOfyDqWH.png" alt="image.png"></p>
+<p>大括号内的信息即为Flag，得到Flag为 <strong>flag{just_w4rm_up_s0_you_n3ed_h4rder_6026cd32}</strong> ，解题完成。</p>
+<h2 id="base"><a href="#base" class="headerlink" title="base!"></a>base!</h2><p>先看题目，信息有base编码。下载附件后，发现直接进行base转码会出问题，结合之前刷到的题猜测存在base64隐写。</p>
+<p><img src="https://s2.loli.net/2023/11/03/kcHQMNbs14RGeoE.png" alt="image.png"></p>
+<p>使用Python脚本进行解码，得到一串编码，最后确定是base58编码格式。</p>
+<p>即可得到Flag为 <strong>flag{b4se_1s_4_g0od_c0d3}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/11/03/jy3CKmIESxR1n6i.png" alt="image.png"></p>
+<h2 id="WebShell的利用"><a href="#WebShell的利用" class="headerlink" title="WebShell的利用"></a>WebShell的利用</h2><p><img src="https://s2.loli.net/2023/11/06/iLSEhst4XUwBl6o.png" alt="image.png"></p>
+<p>属实是被这一题干倒了，附件<code>index.php</code>尝试了很多次还是找不到头绪（还有后续，捂脸www）。</p>
+<p>只好求助于大佬们的WP了，呜呜呜。</p>
+<p>使用这一段PHP脚本来对WebShell脚本进行解密。</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="variable">$shell</span> = <span class="string">&quot;eval(str_rot13(convert_uudecode(str_rot13(base64_decode(&#x27;此处省略题目文件中的编码内容&#x27;)))));&quot;</span>;</span><br><span class="line"><span class="keyword">for</span>(<span class="variable">$i</span>=<span class="number">0</span>; <span class="variable">$i</span>&lt;<span class="number">50</span>; <span class="variable">$i</span>++)&#123;</span><br><span class="line">	<span class="keyword">if</span>(<span class="title function_ invoke__">preg_match</span>(<span class="string">&quot;/base64/&quot;</span>,<span class="variable">$shell</span>))&#123;</span><br><span class="line">		<span class="variable">$tmp</span> = <span class="title function_ invoke__">preg_replace</span>(<span class="string">&quot;/eval/&quot;</span>,<span class="string">&quot;return &quot;</span>,<span class="variable">$shell</span>);</span><br><span class="line">		<span class="variable">$shell</span> = <span class="keyword">eval</span>(<span class="variable">$tmp</span>);</span><br><span class="line">	&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">		<span class="keyword">break</span>;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">echo</span> <span class="variable">$shell</span>;</span><br></pre></td></tr></table></figure>
+
+<p>使用PHPStudy运行后得到：<code>error_reporting(0);($_GET[&#39;7d67973a&#39;])($_POST[&#39;9fa3&#39;]);</code></p>
+<p>接下去开始常规操作，使用HackBar工具，对7d67973a变量GET传参，对9fa3变量POST传参。</p>
+<p><img src="https://s2.loli.net/2023/11/06/ZFbq2TmWALncYBX.png" alt="image.png"></p>
+<p>即可得到Flag为 <strong>flag{53f37ebd-a678-46cc-957b-fd6a3d5b8306}</strong> ，解题完成。</p>
+<p><em>PS. 写到这里突然顿悟了，其实只需要把<code>index.php</code>源码中的<code>eval</code>改为<code>echo</code>，反复运行重复修改即可（如图所示为最后一次的效果），这应该也就是上面那个脚本实现的功能。刚开始做的时候改了一次的效果不明显（文件长度实在太长了，以为没有变化，才会感觉没有头绪），所以一直没有往那个方向去想。这样一想的话，这一题其实也并不是特别难，以后还是要多比较一下解码前后的文件长度才行。</em></p>
+<p><img src="https://s2.loli.net/2023/11/06/2MfFaDeymwi6ptA.png" alt="image.png"></p>
+<h2 id="Jvav"><a href="#Jvav" class="headerlink" title="Jvav"></a>Jvav</h2><p>先看题目，提示说多看看题目名。根据题目名Jvav猜测会和Java有关，结合秘密藏在图片中，应该是隐写类型。</p>
+<p>查阅信息后得到 <strong>Java盲水印(BlindWaterMark)</strong> 这一知识点。</p>
+<p><a href="https://github.com/yxiaojian/blindwatermark">GitHub - Yxiaojian&#x2F;BlindWaterMark: Java盲水印</a></p>
+<p><img src="https://s2.loli.net/2023/11/06/NEhnxqkzMspKLZo.png" alt="image.png"></p>
+<p>在GitHub上搜索可以得到已编译的Java程序，运行即可得到Flag为 <strong>flag{3bb3c3a628a94c}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/11/06/qrePNiy1u7l2dbg.png" alt="image.png"></p>
+]]></content>
       <categories>
-          
-          <category> CTF </category>
-          
+        <category>CTF</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> CTF </tag>
-            
-            <tag> WriteUp </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>FSCTF 2023 WriteUp</title>
-      <link href="/2023/10/22/FSCTF-2023-WriteUp/"/>
-      <url>/2023/10/22/FSCTF-2023-WriteUp/</url>
-      
-        <content type="html"><![CDATA[<p>ID：helloxuh</p><p>总排名：8</p><p>分数：6696</p><p>解题数：19</p><h1 id="WEB-源码！启动！"><a href="#WEB-源码！启动！" class="headerlink" title="WEB - 源码！启动！"></a>WEB - 源码！启动！</h1><p>先看题目：”源码“提示可能需要查看网页源代码。</p><p><img src="https://s2.loli.net/2023/10/22/imOvkIunYyrs5T1.png" alt="WEB-1.png"></p><p>开启环境后，发现鼠标右键和键盘F12键均被禁用。因此这里选择通过浏览器的选项进入开发人员工具。</p><p><img src="https://s2.loli.net/2023/10/22/D1thv4B7jWzTJoi.png" alt="image.png"></p><p>得到Flag为 <strong>NSSCTF{a46d9aca-2c18-4d6f-b636-ec4a71542e83}</strong> ，解题完成。</p><h1 id="WEB-Hello-you"><a href="#WEB-Hello-you" class="headerlink" title="WEB - Hello,you"></a>WEB - Hello,you</h1><p>先看题目，提示与RCE有关。</p><p><img src="https://s2.loli.net/2023/10/22/Uf4osNJ3lkRj6Wv.png" alt="image.png"></p><p><img src="https://s2.loli.net/2023/10/22/wT5GJmPZtQFIxyX.png" alt="image.png"></p><p>开启环境后，在源码中发现几段命令注入的语句提示。在用户名输入框中测试：</p><p>1&amp;&amp;ls能够正常显示结果，发现目录下存在flag.php和index.php两个文件。</p><p>1&amp;&amp;cat flag.php提示非法操作，猜测有关键词过滤。</p><p>1&amp;&amp;ca\t fl\ag.php正常显示Flag内容为 <strong>NSSCTF{408900e5-67bf-4c99-bd4f-34e75a6e7f22}</strong> ，解题完成。</p><p>复盘index.php文件内容，1&amp;&amp;ca\t ind\ex.php，可以看出过滤的具体语句。</p><p><img src="https://s2.loli.net/2023/10/22/NY71ngKox3Hdav5.png" alt="image.png"></p><h1 id="WEB-webshell是啥捏"><a href="#WEB-webshell是啥捏" class="headerlink" title="WEB - webshell是啥捏"></a>WEB - webshell是啥捏</h1><p>先看题目，只发现题目有webshell提示，不清楚用途。</p><p><img src="https://s2.loli.net/2023/10/22/OYb9xWvn1eSQ7BH.png" alt="image.png"></p><p>开启环境后，发现一份php代码，且在源码中未发现有效信息。</p><p><img src="https://s2.loli.net/2023/10/22/tl5Tv9BPCVxpQ4Y.png" alt="image.png"></p><p><em>这题与下一题 <strong>签到plus</strong> 的步骤有相似之处，故放在一起说。</em></p><p>构建URL为<code>/?👽=cat%20../../../flag.txt</code>。</p><p>得到Flag为 <strong>FSCTF{h3llo_ctfe2_5ign_in_webshell_Is_e@sy_right}</strong> ，解题完成。</p><h1 id="WEB-签到plus"><a href="#WEB-签到plus" class="headerlink" title="WEB - 签到plus"></a>WEB - 签到plus</h1><p>先看题目，发现信息”被黑客接管“，根据以往刷题经历判断出目录中存在shell.php文件。</p><p><img src="https://s2.loli.net/2023/10/22/nKBp29hDMmZQ6ge.png" alt="image.png"></p><p>开启环境后，在URL中加入&#x2F;shell.php，观察网页信息，能够发现一个前缀为NSSCTF的Flag内容，但并不正确。</p><p>继续寻找，得到PHP版本为7.4.21。通过搜索得知此版本存在一个漏洞：Remote Source Disclosure。</p><p>关于此漏洞的分析：<a href="https://blog.projectdiscovery.io/php-http-server-source-disclosure/">PHP Development Server &lt;&#x3D; 7.4.21 - Remote Source Disclosure (projectdiscovery.io)</a></p><p>开始复现漏洞，BurpSuite抓包后丢到重放器并且关闭重放器的自动修改Content-Length选项。</p><p>修改请求头为（需包含所有换行符）：</p><figure class="highlight http"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">GET</span> <span class="string">/phpinfo.php</span> <span class="meta">HTTP/1.1</span></span><br><span class="line"><span class="attribute">Host</span><span class="punctuation">: </span>pd.research</span><br><span class="line"></span><br><span class="line"><span class="language-http"></span></span><br><span class="line"><span class="language-http"><span class="keyword">GET</span> <span class="string">/</span> <span class="meta">HTTP/1.1</span></span></span><br><span class="line"><span class="language-http"></span></span><br></pre></td></tr></table></figure><p>开始放包。即可得到一串php代码，并且其格式与上一题完全相同。</p><p><img src="https://s2.loli.net/2023/10/23/eXL6RMxnic3APmd.png" alt="image.png"></p><p>代码中的<code>if (isset($_GET[&#39;&#39;]))</code>表示判断方括内的变量是否存在，因此解题关键在于传参传入一个同名的变量来实现命令注入。</p><p>上一题可直接复制emoji表情至URL中，而本题可以在wxMEdit中得到Unicode编码后转为emoij表情传入URL。</p><p>构建URL为<code>/shell.php?👽🦐=cat%20../../../flag.txt</code>。</p><p><img src="https://s2.loli.net/2023/10/23/y5uFcx3CZLNheag.png" alt="image.png"></p><p>通过以上操作即可得到Flag为 <strong>FSCTF{ThIs_1s_wh@t_you_w@n7}</strong> ，解题完成。</p><h1 id="REVERSE-MINE-SWEEPER"><a href="#REVERSE-MINE-SWEEPER" class="headerlink" title="REVERSE - MINE SWEEPER"></a>REVERSE - MINE SWEEPER</h1><p>先看题目，没有什么收获。</p><p>下载附件打开后，还是没发现什么有用信息。</p><p>尝试在IDA中打开，Shift+F12后，得到Flag为 <strong>FSCTF{We1C0m3 t0 rev w0r1d!!!}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/10/22/Vwn53pCetPJEvqa.png" alt="image.png"></p><h1 id="REVERSE-ez-pycxor"><a href="#REVERSE-ez-pycxor" class="headerlink" title="REVERSE - ez_pycxor"></a>REVERSE - ez_pycxor</h1><p>先看题目，没有什么收获。</p><p>下载附件后，得到一个.pyc文件。因为之前有过Python反编译的实践经历。</p><p>所以直接打开自己之前做的工具整合包，这里用到了pycdc.exe工具。</p><p><img src="https://s2.loli.net/2023/10/22/2cjM7zvoXYGJwWm.png" alt="image.png"></p><p>得到反编译后的Python源码。在经过简单的逆向后，有以下代码。</p><p>得到Flag为 <strong>FSCTF{8a3ccd61ab7ff9e87acb9c9d1}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/10/22/HkglMQYWxwzIX5a.png" alt="image.png"></p><h1 id="CRYPTO-RSA-1"><a href="#CRYPTO-RSA-1" class="headerlink" title="CRYPTO - RSA 1"></a>CRYPTO - RSA 1</h1><p>先看题目，没有什么收获。</p><p>下载附件后，得到RSA类型为已知p, q, e求d，这里直接使用Python脚本完成。</p><p><img src="https://s2.loli.net/2023/10/22/Hq9lb4SaYcAfi6p.png" alt="image.png"></p><p>得到Flag为 <strong>FSCTF{5865518808244394324786753}</strong> ，解题完成。</p><h1 id="CRYPTO-RSA-2"><a href="#CRYPTO-RSA-2" class="headerlink" title="CRYPTO - RSA 2"></a>CRYPTO - RSA 2</h1><p>先看题目，没有什么收获。</p><p>下载附件后，得到RSA类型为已知p, q, c, e求值，这里直接使用Python脚本完成。</p><p><img src="https://s2.loli.net/2023/10/22/IgnQ9kdOtAsmuPY.png" alt="image.png"></p><h1 id="CRYPTO-RSA-3"><a href="#CRYPTO-RSA-3" class="headerlink" title="CRYPTO - RSA 3"></a>CRYPTO - RSA 3</h1><p>先看题目，没有什么收获。</p><p>下载附件后，得到RSA类型为已知n, e, dp, c求值，这里直接使用Python脚本完成。</p><p><img src="https://s2.loli.net/2023/10/22/eJ3DMFgvupnK5TO.png" alt="image.png"></p><h1 id="CRYPTO-做不出来就别阴阳怪气啦"><a href="#CRYPTO-做不出来就别阴阳怪气啦" class="headerlink" title="CRYPTO - 做不出来就别阴阳怪气啦"></a>CRYPTO - 做不出来就别阴阳怪气啦</h1><p>先看题目，得到信息”阴阳怪气“。</p><p>（其实刚开始做的时候发现不了这个信息。可以复制一小段文本搜索即可得到阴阳怪气编码）</p><p><img src="https://s2.loli.net/2023/10/22/4Q7oJcW9XgmRpiU.png" alt="image.png"></p><p>使用网络上的在线”阴阳怪气编码器“即可解出Flag为 <strong>FSCTF{Jiuzhe@JustSoSo}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/10/22/sU56uXzktWoCeM9.png" alt="image.png"></p><h1 id="CRYPTO-埃塞克的秘密"><a href="#CRYPTO-埃塞克的秘密" class="headerlink" title="CRYPTO - 埃塞克的秘密"></a>CRYPTO - 埃塞克的秘密</h1><p>先看题目，得到信息：埃塞克可能为ASCII编码，ROT可能指ROT编码。</p><p><img src="https://s2.loli.net/2023/10/22/XUi2JwyAdmts7xH.png" alt="image.png"></p><p>打开附件后，判断可能为十进制的ASCII编码。</p><p>通过在线ASCII转换器得到ROT编码信息u$r%uL%9o?&lt;0J@FN。</p><p>通过ROT编码转换器（具体为ROT47编码）得到Flag为 <strong>FSCTF{Th@nk_you}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/10/22/xNCGgE4YrmO1vUH.png" alt="image.png"></p><p><img src="https://s2.loli.net/2023/10/23/AHjdW7xsq9aX2KQ.png" alt="image.png"></p><h1 id="MISC-改过自新，从头再来"><a href="#MISC-改过自新，从头再来" class="headerlink" title="MISC - 改过自新，从头再来"></a>MISC - 改过自新，从头再来</h1><p>签到题，在题干中得到Flag为 <strong>FSCTF{WE1c0me_To_Fut^re_St@r_CTF}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/10/22/aHeqFp1hYUjAwPD.png" alt="image.png"></p><h1 id="MISC-Simple-Encryption"><a href="#MISC-Simple-Encryption" class="headerlink" title="MISC - Simple Encryption"></a>MISC - Simple Encryption</h1><p>先看题目，得到信息”压缩包分析“。</p><p><img src="https://s2.loli.net/2023/10/22/ueDExAZUWBLwb9l.png" alt="image.png"></p><p>附件下载完成后，开始以为是需要爆破压缩包密码，但尝试多次后无果。</p><p>尝试使用Notepad3打开压缩包文件，</p><p><img src="https://s2.loli.net/2023/10/22/XHGW4emFwukc2Y7.png" alt="image.png"></p><p>得到Flag为 <strong>FSCTF{Wei_Ji@mi_s0_EasY}</strong> ，解题完成。</p><h1 id="MISC-萧河"><a href="#MISC-萧河" class="headerlink" title="MISC - 萧河"></a>MISC - 萧河</h1><p>先看题目，</p><p><img src="https://s2.loli.net/2023/10/22/M9cI6HWakegohuj.png" alt="image.png"></p><p>下载附件，附件为一个名为png的不带后缀的文件，结合题目提示猜测，缺少png头文件。</p><p>用wxMEdit打开，修改头文件格式 89 50 4E 47并保存，得到一个图片文件，但发现图片不全。</p><p>再次结合题目提示，猜测图片大小被修改。在第二行找到png大小源码，将宽度值修改为与长度值相同。</p><p>打开图片，得到Flag为 <strong>FSCTF{xiaojia_xiaohe}</strong> ，解题完成。</p><p><img src="https://s2.loli.net/2023/10/22/IKnPVtjhUciY1sy.png" alt="png _2_.png"></p><h1 id="MISC-行不行啊细狗"><a href="#MISC-行不行啊细狗" class="headerlink" title="MISC - 行不行啊细狗"></a>MISC - 行不行啊细狗</h1><p>先看题目，无信息。</p><p><img src="https://s2.loli.net/2023/10/22/FPDmMv9sYr6IBi8.png" alt="image.png"></p><p>附件为一个Word文档，猜测有隐写存在。</p><p><img src="https://s2.loli.net/2023/10/22/fbrJj3C6mypEkdN.png" alt="image.png"></p><p>这里选择将docx后缀改为zip格式打开，在目录word下打开document.xml，找到两段Flag内容，FSCTF{N0t_A_heRo_和doEs_not_re@d_t。在群里hint中得到第三段Flag为He_3_Kinggggdoms。</p><p>拼接后得到Flag为 <strong>FSCTF{N0t_A_heRo_doEs_not_re@d_tHe_3_Kinggggdoms}</strong> ，解题完成。</p><h1 id="MISC-ez-osint"><a href="#MISC-ez-osint" class="headerlink" title="MISC - ez-osint"></a>MISC - ez-osint</h1><p>先看题目，根据图片解出拍摄时间。</p><p><img src="https://s2.loli.net/2023/10/22/AotmwW9OCu7MH3S.png" alt="image.png"></p><p>附件为一张图片。得到以下信息：在国外，一辆公交车，公交车的车牌、车次，公交车上的广告（推测为类似泰语，推测在东南亚），一座建筑，阳光照射角度。</p><p><img src="https://s2.loli.net/2023/10/22/Rx9iCwWYZdky8Sj.jpg" alt="27281696669078_.pic.png"></p><p>在尝试将这些信息在网上检索时，找到一篇文章。</p><p><img src="https://s2.loli.net/2023/10/22/xi9erJh1WEFKzGv.png" alt="image.png"></p><p>通过文章中的解题方法得到Flag为 <strong>FSCTF{08_40}</strong> ，解题完成。</p><h1 id="MISC-base套"><a href="#MISC-base套" class="headerlink" title="MISC - base套"></a>MISC - base套</h1><p>先看题目，未发现明显的提示信息。</p><p><img src="https://s2.loli.net/2023/10/22/HlpExFu1gh5kCo4.png" alt="image.png"></p><p>打开附件后，发现可能为Base64编码的信息。通过在线Base64解码网站解码N多次后即可得到Flag内容。</p><p><img src="https://s2.loli.net/2023/10/22/BnflDUKmOAzTk3v.png" alt="image.png"></p><p><img src="https://s2.loli.net/2023/10/23/mZvXwxsRU8BOPzc.png" alt="image.png"></p><p>得到Flag为 <strong>FSCTF{e@sy_b@se64_yeah}</strong> ，解题完成。</p><h1 id="MISC-先签个到吧"><a href="#MISC-先签个到吧" class="headerlink" title="MISC - 先签个到吧"></a>MISC - 先签个到吧</h1><p>先看题目，得到信息：glan的学校附近，一个纪念馆（很可能不是特别著名）。</p><p><img src="https://s2.loli.net/2023/10/22/LiFYoAl34KpXOUz.png" alt="image.png"></p><p>对于信息glan的学校附近，在群里找到出题人备注为TUT即天津理工大学，通过地图网站查询附近地标。</p><p><img src="https://s2.loli.net/2023/10/22/MGIpB6DY3AyR4ad.png" alt="image.png"></p><p>得到一处地点为霍元甲纪念馆，尚武休闲广场，精武门中华武林园附近。</p><p>尝试这几个地点后即可得到Flag为 <strong>FSCTF{精武门中华武林园}</strong> ，解题完成。</p><h1 id="MISC-夜深人静的时候也会偷偷emo"><a href="#MISC-夜深人静的时候也会偷偷emo" class="headerlink" title="MISC - 夜深人静的时候也会偷偷emo"></a>MISC - 夜深人静的时候也会偷偷emo</h1><p>先看题目，无有效信息。</p><p><img src="https://s2.loli.net/2023/10/22/jhDiAGznawOPU3Y.png" alt="image.png"></p><p>附件为一个带密码的压缩包，一开始猜测题干中的三点可能代指密码位数但无果。暴力破解，破解密码为12345。</p><p>解压后得到一个mp3音频文件。</p><p>尝试使用Audacity观察波形图无果。</p><p>尝试使用MP3Stego解题，一开始无果。后面重发了mp3文件后再次尝试。</p><p><img src="https://s2.loli.net/2023/10/22/huM9rNzQvpie2Xw.png" alt="image.png"></p><p>得到Flag为 <strong>FSCTF{CemMEnt_Se@1s_tHe_heaaaaaart_foR_An0ther_D@y}</strong> ，解题完成。</p><h1 id="问题复盘"><a href="#问题复盘" class="headerlink" title="问题复盘"></a>问题复盘</h1><p><img src="https://s2.loli.net/2023/10/23/rlSAKbGBqdxp7XT.png" alt="image.png"></p><p><img src="https://s2.loli.net/2023/10/23/MRcfjHTJzXPgA2U.png" alt="image.png"></p><p>在赛题涉及的5个方向中，MISC方向情况较好，PWN、REVERSE方向比较一般。</p><p>有几道赛题解出一大半之后无法继续完成，在这一点上会比较惨哈哈。</p>]]></content>
-      
-      
+      <tags>
+        <tag>CTF</tag>
+        <tag>WriteUp</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FSCTF 2023 WriteUp</title>
+    <url>/2023/10/22/FSCTF-2023-WriteUp/</url>
+    <content><![CDATA[<p>ID：helloxuh</p>
+<p>总排名：8</p>
+<p>分数：6696</p>
+<p>解题数：19</p>
+<h1 id="WEB-源码！启动！"><a href="#WEB-源码！启动！" class="headerlink" title="WEB - 源码！启动！"></a>WEB - 源码！启动！</h1><p>先看题目：”源码“提示可能需要查看网页源代码。</p>
+<p><img src="https://s2.loli.net/2023/10/22/imOvkIunYyrs5T1.png" alt="WEB-1.png"></p>
+<p>开启环境后，发现鼠标右键和键盘F12键均被禁用。因此这里选择通过浏览器的选项进入开发人员工具。</p>
+<p><img src="https://s2.loli.net/2023/10/22/D1thv4B7jWzTJoi.png" alt="image.png"></p>
+<p>得到Flag为 <strong>NSSCTF{a46d9aca-2c18-4d6f-b636-ec4a71542e83}</strong> ，解题完成。</p>
+<h1 id="WEB-Hello-you"><a href="#WEB-Hello-you" class="headerlink" title="WEB - Hello,you"></a>WEB - Hello,you</h1><p>先看题目，提示与RCE有关。</p>
+<p><img src="https://s2.loli.net/2023/10/22/Uf4osNJ3lkRj6Wv.png" alt="image.png"></p>
+<p><img src="https://s2.loli.net/2023/10/22/wT5GJmPZtQFIxyX.png" alt="image.png"></p>
+<p>开启环境后，在源码中发现几段命令注入的语句提示。在用户名输入框中测试：</p>
+<p>1&amp;&amp;ls		能够正常显示结果，发现目录下存在flag.php和index.php两个文件。</p>
+<p>1&amp;&amp;cat flag.php		提示非法操作，猜测有关键词过滤。</p>
+<p>1&amp;&amp;ca\t fl\ag.php		正常显示Flag内容为 <strong>NSSCTF{408900e5-67bf-4c99-bd4f-34e75a6e7f22}</strong> ，解题完成。</p>
+<p>复盘index.php文件内容，1&amp;&amp;ca\t ind\ex.php，可以看出过滤的具体语句。</p>
+<p><img src="https://s2.loli.net/2023/10/22/NY71ngKox3Hdav5.png" alt="image.png"></p>
+<h1 id="WEB-webshell是啥捏"><a href="#WEB-webshell是啥捏" class="headerlink" title="WEB - webshell是啥捏"></a>WEB - webshell是啥捏</h1><p>先看题目，只发现题目有webshell提示，不清楚用途。</p>
+<p><img src="https://s2.loli.net/2023/10/22/OYb9xWvn1eSQ7BH.png" alt="image.png"></p>
+<p>开启环境后，发现一份php代码，且在源码中未发现有效信息。</p>
+<p><img src="https://s2.loli.net/2023/10/22/tl5Tv9BPCVxpQ4Y.png" alt="image.png"></p>
+<p><em>这题与下一题 <strong>签到plus</strong> 的步骤有相似之处，故放在一起说。</em></p>
+<p>构建URL为<code>/?👽=cat%20../../../flag.txt</code>。</p>
+<p>得到Flag为 <strong>FSCTF{h3llo_ctfe2_5ign_in_webshell_Is_e@sy_right}</strong> ，解题完成。</p>
+<h1 id="WEB-签到plus"><a href="#WEB-签到plus" class="headerlink" title="WEB - 签到plus"></a>WEB - 签到plus</h1><p>先看题目，发现信息”被黑客接管“，根据以往刷题经历判断出目录中存在shell.php文件。</p>
+<p><img src="https://s2.loli.net/2023/10/22/nKBp29hDMmZQ6ge.png" alt="image.png"></p>
+<p>开启环境后，在URL中加入&#x2F;shell.php，观察网页信息，能够发现一个前缀为NSSCTF的Flag内容，但并不正确。</p>
+<p>继续寻找，得到PHP版本为7.4.21。通过搜索得知此版本存在一个漏洞：Remote Source Disclosure。</p>
+<p>关于此漏洞的分析：<a href="https://blog.projectdiscovery.io/php-http-server-source-disclosure/">PHP Development Server &lt;&#x3D; 7.4.21 - Remote Source Disclosure (projectdiscovery.io)</a></p>
+<p>开始复现漏洞，BurpSuite抓包后丢到重放器并且关闭重放器的自动修改Content-Length选项。</p>
+<p>修改请求头为（需包含所有换行符）：</p>
+<figure class="highlight http"><table><tr><td class="code"><pre><span class="line"><span class="keyword">GET</span> <span class="string">/phpinfo.php</span> <span class="meta">HTTP/1.1</span></span><br><span class="line"><span class="attribute">Host</span><span class="punctuation">: </span>pd.research</span><br><span class="line"></span><br><span class="line"><span class="language-http"></span></span><br><span class="line"><span class="language-http"><span class="keyword">GET</span> <span class="string">/</span> <span class="meta">HTTP/1.1</span></span></span><br><span class="line"><span class="language-http"></span></span><br></pre></td></tr></table></figure>
+
+<p>开始放包。即可得到一串php代码，并且其格式与上一题完全相同。</p>
+<p><img src="https://s2.loli.net/2023/10/23/eXL6RMxnic3APmd.png" alt="image.png"></p>
+<p>代码中的<code>if (isset($_GET[&#39;&#39;]))</code>表示判断方括内的变量是否存在，因此解题关键在于传参传入一个同名的变量来实现命令注入。</p>
+<p>上一题可直接复制emoji表情至URL中，而本题可以在wxMEdit中得到Unicode编码后转为emoij表情传入URL。</p>
+<p>构建URL为<code>/shell.php?👽🦐=cat%20../../../flag.txt</code>。</p>
+<p><img src="https://s2.loli.net/2023/10/23/y5uFcx3CZLNheag.png" alt="image.png"></p>
+<p>通过以上操作即可得到Flag为 <strong>FSCTF{ThIs_1s_wh@t_you_w@n7}</strong> ，解题完成。</p>
+<h1 id="REVERSE-MINE-SWEEPER"><a href="#REVERSE-MINE-SWEEPER" class="headerlink" title="REVERSE - MINE SWEEPER"></a>REVERSE - MINE SWEEPER</h1><p>先看题目，没有什么收获。</p>
+<p>下载附件打开后，还是没发现什么有用信息。</p>
+<p>尝试在IDA中打开，Shift+F12后，得到Flag为 <strong>FSCTF{We1C0m3 t0 rev w0r1d!!!}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/22/Vwn53pCetPJEvqa.png" alt="image.png"></p>
+<h1 id="REVERSE-ez-pycxor"><a href="#REVERSE-ez-pycxor" class="headerlink" title="REVERSE - ez_pycxor"></a>REVERSE - ez_pycxor</h1><p>先看题目，没有什么收获。</p>
+<p>下载附件后，得到一个.pyc文件。因为之前有过Python反编译的实践经历。</p>
+<p>所以直接打开自己之前做的工具整合包，这里用到了pycdc.exe工具。</p>
+<p><img src="https://s2.loli.net/2023/10/22/2cjM7zvoXYGJwWm.png" alt="image.png"></p>
+<p>得到反编译后的Python源码。在经过简单的逆向后，有以下代码。</p>
+<p>得到Flag为 <strong>FSCTF{8a3ccd61ab7ff9e87acb9c9d1}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/22/HkglMQYWxwzIX5a.png" alt="image.png"></p>
+<h1 id="CRYPTO-RSA-1"><a href="#CRYPTO-RSA-1" class="headerlink" title="CRYPTO - RSA 1"></a>CRYPTO - RSA 1</h1><p>先看题目，没有什么收获。</p>
+<p>下载附件后，得到RSA类型为已知p, q, e求d，这里直接使用Python脚本完成。</p>
+<p><img src="https://s2.loli.net/2023/10/22/Hq9lb4SaYcAfi6p.png" alt="image.png"></p>
+<p>得到Flag为 <strong>FSCTF{5865518808244394324786753}</strong> ，解题完成。</p>
+<h1 id="CRYPTO-RSA-2"><a href="#CRYPTO-RSA-2" class="headerlink" title="CRYPTO - RSA 2"></a>CRYPTO - RSA 2</h1><p>先看题目，没有什么收获。</p>
+<p>下载附件后，得到RSA类型为已知p, q, c, e求值，这里直接使用Python脚本完成。</p>
+<p><img src="https://s2.loli.net/2023/10/22/IgnQ9kdOtAsmuPY.png" alt="image.png"></p>
+<h1 id="CRYPTO-RSA-3"><a href="#CRYPTO-RSA-3" class="headerlink" title="CRYPTO - RSA 3"></a>CRYPTO - RSA 3</h1><p>先看题目，没有什么收获。</p>
+<p>下载附件后，得到RSA类型为已知n, e, dp, c求值，这里直接使用Python脚本完成。</p>
+<p><img src="https://s2.loli.net/2023/10/22/eJ3DMFgvupnK5TO.png" alt="image.png"></p>
+<h1 id="CRYPTO-做不出来就别阴阳怪气啦"><a href="#CRYPTO-做不出来就别阴阳怪气啦" class="headerlink" title="CRYPTO - 做不出来就别阴阳怪气啦"></a>CRYPTO - 做不出来就别阴阳怪气啦</h1><p>先看题目，得到信息”阴阳怪气“。</p>
+<p>（其实刚开始做的时候发现不了这个信息。可以复制一小段文本搜索即可得到阴阳怪气编码）</p>
+<p><img src="https://s2.loli.net/2023/10/22/4Q7oJcW9XgmRpiU.png" alt="image.png"></p>
+<p>使用网络上的在线”阴阳怪气编码器“即可解出Flag为 <strong>FSCTF{Jiuzhe@JustSoSo}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/22/sU56uXzktWoCeM9.png" alt="image.png"></p>
+<h1 id="CRYPTO-埃塞克的秘密"><a href="#CRYPTO-埃塞克的秘密" class="headerlink" title="CRYPTO - 埃塞克的秘密"></a>CRYPTO - 埃塞克的秘密</h1><p>先看题目，得到信息：埃塞克可能为ASCII编码，ROT可能指ROT编码。</p>
+<p><img src="https://s2.loli.net/2023/10/22/XUi2JwyAdmts7xH.png" alt="image.png"></p>
+<p>打开附件后，判断可能为十进制的ASCII编码。</p>
+<p>通过在线ASCII转换器得到ROT编码信息u$r%uL%9o?&lt;0J@FN。</p>
+<p>通过ROT编码转换器（具体为ROT47编码）得到Flag为 <strong>FSCTF{Th@nk_you}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/22/xNCGgE4YrmO1vUH.png" alt="image.png"></p>
+<p><img src="https://s2.loli.net/2023/10/23/AHjdW7xsq9aX2KQ.png" alt="image.png"></p>
+<h1 id="MISC-改过自新，从头再来"><a href="#MISC-改过自新，从头再来" class="headerlink" title="MISC - 改过自新，从头再来"></a>MISC - 改过自新，从头再来</h1><p>签到题，在题干中得到Flag为 <strong>FSCTF{WE1c0me_To_Fut^re_St@r_CTF}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/22/aHeqFp1hYUjAwPD.png" alt="image.png"></p>
+<h1 id="MISC-Simple-Encryption"><a href="#MISC-Simple-Encryption" class="headerlink" title="MISC - Simple Encryption"></a>MISC - Simple Encryption</h1><p>先看题目，得到信息”压缩包分析“。</p>
+<p><img src="https://s2.loli.net/2023/10/22/ueDExAZUWBLwb9l.png" alt="image.png"></p>
+<p>附件下载完成后，开始以为是需要爆破压缩包密码，但尝试多次后无果。</p>
+<p>尝试使用Notepad3打开压缩包文件，</p>
+<p><img src="https://s2.loli.net/2023/10/22/XHGW4emFwukc2Y7.png" alt="image.png"></p>
+<p>得到Flag为 <strong>FSCTF{Wei_Ji@mi_s0_EasY}</strong> ，解题完成。</p>
+<h1 id="MISC-萧河"><a href="#MISC-萧河" class="headerlink" title="MISC - 萧河"></a>MISC - 萧河</h1><p>先看题目，</p>
+<p><img src="https://s2.loli.net/2023/10/22/M9cI6HWakegohuj.png" alt="image.png"></p>
+<p>下载附件，附件为一个名为png的不带后缀的文件，结合题目提示猜测，缺少png头文件。</p>
+<p>用wxMEdit打开，修改头文件格式 89 50 4E 47并保存，得到一个图片文件，但发现图片不全。</p>
+<p>再次结合题目提示，猜测图片大小被修改。在第二行找到png大小源码，将宽度值修改为与长度值相同。</p>
+<p>打开图片，得到Flag为 <strong>FSCTF{xiaojia_xiaohe}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/22/IKnPVtjhUciY1sy.png" alt="png _2_.png"></p>
+<h1 id="MISC-行不行啊细狗"><a href="#MISC-行不行啊细狗" class="headerlink" title="MISC - 行不行啊细狗"></a>MISC - 行不行啊细狗</h1><p>先看题目，无信息。</p>
+<p><img src="https://s2.loli.net/2023/10/22/FPDmMv9sYr6IBi8.png" alt="image.png"></p>
+<p>附件为一个Word文档，猜测有隐写存在。</p>
+<p><img src="https://s2.loli.net/2023/10/22/fbrJj3C6mypEkdN.png" alt="image.png"></p>
+<p>这里选择将docx后缀改为zip格式打开，在目录word下打开document.xml，找到两段Flag内容，FSCTF{N0t_A_heRo_和doEs_not_re@d_t。在群里hint中得到第三段Flag为He_3_Kinggggdoms。</p>
+<p>拼接后得到Flag为 <strong>FSCTF{N0t_A_heRo_doEs_not_re@d_tHe_3_Kinggggdoms}</strong> ，解题完成。</p>
+<h1 id="MISC-ez-osint"><a href="#MISC-ez-osint" class="headerlink" title="MISC - ez-osint"></a>MISC - ez-osint</h1><p>先看题目，根据图片解出拍摄时间。</p>
+<p><img src="https://s2.loli.net/2023/10/22/AotmwW9OCu7MH3S.png" alt="image.png"></p>
+<p>附件为一张图片。得到以下信息：在国外，一辆公交车，公交车的车牌、车次，公交车上的广告（推测为类似泰语，推测在东南亚），一座建筑，阳光照射角度。</p>
+<p><img src="https://s2.loli.net/2023/10/22/Rx9iCwWYZdky8Sj.jpg" alt="27281696669078_.pic.png"></p>
+<p>在尝试将这些信息在网上检索时，找到一篇文章。</p>
+<p><img src="https://s2.loli.net/2023/10/22/xi9erJh1WEFKzGv.png" alt="image.png"></p>
+<p>通过文章中的解题方法得到Flag为 <strong>FSCTF{08_40}</strong> ，解题完成。</p>
+<h1 id="MISC-base套"><a href="#MISC-base套" class="headerlink" title="MISC - base套"></a>MISC - base套</h1><p>先看题目，未发现明显的提示信息。</p>
+<p><img src="https://s2.loli.net/2023/10/22/HlpExFu1gh5kCo4.png" alt="image.png"></p>
+<p>打开附件后，发现可能为Base64编码的信息。通过在线Base64解码网站解码N多次后即可得到Flag内容。</p>
+<p><img src="https://s2.loli.net/2023/10/22/BnflDUKmOAzTk3v.png" alt="image.png"></p>
+<p><img src="https://s2.loli.net/2023/10/23/mZvXwxsRU8BOPzc.png" alt="image.png"></p>
+<p>得到Flag为 <strong>FSCTF{e@sy_b@se64_yeah}</strong> ，解题完成。</p>
+<h1 id="MISC-先签个到吧"><a href="#MISC-先签个到吧" class="headerlink" title="MISC - 先签个到吧"></a>MISC - 先签个到吧</h1><p>先看题目，得到信息：glan的学校附近，一个纪念馆（很可能不是特别著名）。</p>
+<p><img src="https://s2.loli.net/2023/10/22/LiFYoAl34KpXOUz.png" alt="image.png"></p>
+<p>对于信息glan的学校附近，在群里找到出题人备注为TUT即天津理工大学，通过地图网站查询附近地标。</p>
+<p><img src="https://s2.loli.net/2023/10/22/MGIpB6DY3AyR4ad.png" alt="image.png"></p>
+<p>得到一处地点为霍元甲纪念馆，尚武休闲广场，精武门中华武林园附近。</p>
+<p>尝试这几个地点后即可得到Flag为 <strong>FSCTF{精武门中华武林园}</strong> ，解题完成。</p>
+<h1 id="MISC-夜深人静的时候也会偷偷emo"><a href="#MISC-夜深人静的时候也会偷偷emo" class="headerlink" title="MISC - 夜深人静的时候也会偷偷emo"></a>MISC - 夜深人静的时候也会偷偷emo</h1><p>先看题目，无有效信息。</p>
+<p><img src="https://s2.loli.net/2023/10/22/jhDiAGznawOPU3Y.png" alt="image.png"></p>
+<p>附件为一个带密码的压缩包，一开始猜测题干中的三点可能代指密码位数但无果。暴力破解，破解密码为12345。</p>
+<p>解压后得到一个mp3音频文件。</p>
+<p>尝试使用Audacity观察波形图无果。</p>
+<p>尝试使用MP3Stego解题，一开始无果。后面重发了mp3文件后再次尝试。</p>
+<p><img src="https://s2.loli.net/2023/10/22/huM9rNzQvpie2Xw.png" alt="image.png"></p>
+<p>得到Flag为 <strong>FSCTF{CemMEnt_Se@1s_tHe_heaaaaaart_foR_An0ther_D@y}</strong> ，解题完成。</p>
+<h1 id="问题复盘"><a href="#问题复盘" class="headerlink" title="问题复盘"></a>问题复盘</h1><p><img src="https://s2.loli.net/2023/10/23/rlSAKbGBqdxp7XT.png" alt="image.png"></p>
+<p><img src="https://s2.loli.net/2023/10/23/MRcfjHTJzXPgA2U.png" alt="image.png"></p>
+<p>在赛题涉及的5个方向中，MISC方向情况较好，PWN、REVERSE方向比较一般。</p>
+<p>有几道赛题解出一大半之后无法继续完成，在这一点上会比较惨哈哈。</p>
+]]></content>
       <categories>
-          
-          <category> CTF </category>
-          
+        <category>CTF</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> CTF </tag>
-            
-            <tag> WriteUp </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>CTF</tag>
+        <tag>WriteUp</tag>
+      </tags>
+  </entry>
 </search>
