@@ -6,7 +6,7 @@
   <link href="https://hello-hayi.github.io/atom.xml" rel="self"/>
   
   <link href="https://hello-hayi.github.io/"/>
-  <updated>2024-02-17T05:13:37.759Z</updated>
+  <updated>2024-02-17T05:25:06.453Z</updated>
   <id>https://hello-hayi.github.io/</id>
   
   <author>
@@ -17,20 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Train Travel Plan</title>
+    <title>火车纵贯中国 —— 旅行计划</title>
     <link href="https://hello-hayi.github.io/2024/02/17/Train-Travel-Plan/"/>
     <id>https://hello-hayi.github.io/2024/02/17/Train-Travel-Plan/</id>
     <published>2024-02-17T05:02:45.000Z</published>
-    <updated>2024-02-17T05:13:37.759Z</updated>
+    <updated>2024-02-17T05:25:06.453Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;当前阶段可用的方案&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;K7042&lt;/strong&gt; ：漠河站 至 哈尔滨站 15:32 —— 09:42 (+1)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;T244&lt;/strong&gt; ：哈尔滨站 至 长春站 10:44 ——</summary>
+    <summary type="html">&lt;h1 id=&quot;当前阶段可用的方案&quot;&gt;&lt;a href=&quot;#当前阶段可用的方案&quot; class=&quot;headerlink&quot; title=&quot;当前阶段可用的方案&quot;&gt;&lt;/a&gt;当前阶段可用的方案&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;K7042&lt;/strong&gt; ：漠河站 至 哈尔滨站 15:32</summary>
         
       
     
@@ -80,9 +78,7 @@
       
         
         
-    <summary type="html">&lt;h1&gt;写在本文之前&lt;/h1&gt;
-&lt;p&gt;本文写于 2 月 8 日凌晨…&lt;br&gt;
-很显然，这才是这个站点的第一篇推文。截止 2 月 8 日凌晨，我的这个小博客网站只有 3 篇文章，两篇是去年写的 CTF WriteUp，一篇是构建 HEXO</summary>
+    <summary type="html">&lt;h1 id=&quot;写在本文之前&quot;&gt;&lt;a href=&quot;#写在本文之前&quot; class=&quot;headerlink&quot; title=&quot;写在本文之前&quot;&gt;&lt;/a&gt;写在本文之前&lt;/h1&gt;&lt;p&gt;本文写于 2 月 8 日凌晨…&lt;br&gt;很显然，这才是这个站点的第一篇推文。截止 2 月 8</summary>
         
       
     
@@ -130,10 +126,7 @@
       
         
         
-    <summary type="html">&lt;h1&gt;WEEK1|MISC&lt;/h1&gt;
-&lt;h2 id=&quot;CyberChef’s-Secret&quot;&gt;CyberChef’s Secret&lt;/h2&gt;
-&lt;p&gt;先看题目，为编码转换类型。&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;h1 id=&quot;WEEK1-MISC&quot;&gt;&lt;a href=&quot;#WEEK1-MISC&quot; class=&quot;headerlink&quot; title=&quot;WEEK1|MISC&quot;&gt;&lt;/a&gt;WEEK1|MISC&lt;/h1&gt;&lt;h2 id=&quot;CyberChef’s-Secret&quot;&gt;&lt;a</summary>
         
       
     
@@ -164,9 +157,7 @@
 &lt;p&gt;总排名：8&lt;/p&gt;
 &lt;p&gt;分数：6696&lt;/p&gt;
 &lt;p&gt;解题数：19&lt;/p&gt;
-&lt;h1&gt;WEB - 源码！启动！&lt;/h1&gt;
-&lt;p&gt;先看题目：”源码“提示可能需要查看网页源代码。&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
+&lt;h1 id=&quot;WEB-源码！启动！&quot;&gt;&lt;a href=&quot;#WEB-源码！启动！&quot; class=&quot;headerlink&quot; title=&quot;WEB -</summary>
         
       
     
