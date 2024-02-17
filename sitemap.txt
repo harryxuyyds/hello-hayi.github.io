@@ -10,10 +10,10 @@ https://hello-hayi.github.io/resources/index.html
 https://hello-hayi.github.io/tags/index.html
 https://hello-hayi.github.io/categories/index.html
 https://hello-hayi.github.io/
-https://hello-hayi.github.io/tags/%E5%BD%B1%E8%A7%86/
-https://hello-hayi.github.io/tags/%E6%80%9D%E6%83%B3/
 https://hello-hayi.github.io/tags/CTF/
 https://hello-hayi.github.io/tags/WriteUp/
+https://hello-hayi.github.io/tags/%E5%BD%B1%E8%A7%86/
+https://hello-hayi.github.io/tags/%E6%80%9D%E6%83%B3/
 https://hello-hayi.github.io/tags/%E6%97%85%E8%A1%8C/
 https://hello-hayi.github.io/tags/%E9%93%81%E8%B7%AF%E8%BF%B7/
 https://hello-hayi.github.io/categories/%E6%97%A5%E5%B8%B8/
