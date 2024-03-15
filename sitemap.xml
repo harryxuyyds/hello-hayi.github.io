@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hello-hayi.github.io/2024/03/15/CognitiveVigilanceSim&PerfTestingSys-UserManual.md/</loc>
+    
+    <lastmod>2024-03-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hello-hayi.github.io/link/index.html</loc>
     
     <lastmod>2024-03-15</lastmod>
@@ -124,6 +133,13 @@
   </url>
   
   <url>
+    <loc>https://hello-hayi.github.io/tags/%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hello-hayi.github.io/tags/%E6%97%85%E8%A1%8C/</loc>
     <lastmod>2024-03-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -162,6 +178,13 @@
   
   <url>
     <loc>https://hello-hayi.github.io/categories/CTF/</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hello-hayi.github.io/categories/Python/</loc>
     <lastmod>2024-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
