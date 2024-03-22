@@ -28,7 +28,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;〇、前言&quot;&gt;&lt;a href=&quot;#〇、前言&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1&gt;〇、前言&lt;/h1&gt;
+&lt;p&gt;2024年初，我加入了中国民航大学安全科学与工程学院的“认知性警戒作业疲劳”大创项目，并合作为其编写了用于被试实验的软件系统整合。此文档由当时申请软著所撰写的软件系统使用手册转换格式而来，结合此站点已有的评论交流系统，希望能够帮助使用者更好地了解</summary>
         
       
     
@@ -53,7 +54,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;当前阶段可用的方案&quot;&gt;&lt;a href=&quot;#当前阶段可用的方案&quot; class=&quot;headerlink&quot; title=&quot;当前阶段可用的方案&quot;&gt;&lt;/a&gt;当前阶段可用的方案&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;K7042&lt;/strong&gt; ：漠河站 至 哈尔滨站 15:32</summary>
+    <summary type="html">&lt;h1&gt;当前阶段可用的方案&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;K7042&lt;/strong&gt; ：漠河站 至 哈尔滨站 15:32 —— 09:42 (+1) 坐硬座会没小半条命，可接受~&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;T244&lt;/strong&gt; ：哈尔滨站 至 长春站 10:44</summary>
         
       
     
@@ -96,16 +99,10 @@
     <link href="https://hello-hayi.github.io/2024/02/08/Johnny-Keep-Walking/"/>
     <id>https://hello-hayi.github.io/2024/02/08/Johnny-Keep-Walking/</id>
     <published>2024-02-07T17:02:20.000Z</published>
-    <updated>2024-02-09T13:10:14.019Z</updated>
+    <updated>2024-03-22T15:24:07.238Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;写在本文之前&quot;&gt;&lt;a href=&quot;#写在本文之前&quot; class=&quot;headerlink&quot; title=&quot;写在本文之前&quot;&gt;&lt;/a&gt;写在本文之前&lt;/h1&gt;&lt;p&gt;本文写于 2 月 8 日凌晨…&lt;br&gt;很显然，这才是这个站点的第一篇推文。截止 2 月 8</summary>
-        
-      
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
     
     
     
@@ -144,14 +141,17 @@
     <link href="https://hello-hayi.github.io/2023/11/13/NSSCTF-2023-WriteUp/"/>
     <id>https://hello-hayi.github.io/2023/11/13/NSSCTF-2023-WriteUp/</id>
     <published>2023-11-13T14:16:25.000Z</published>
-    <updated>2024-02-06T12:29:29.906Z</updated>
+    <updated>2024-03-15T11:03:13.614Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;WEEK1-MISC&quot;&gt;&lt;a href=&quot;#WEEK1-MISC&quot; class=&quot;headerlink&quot; title=&quot;WEEK1|MISC&quot;&gt;&lt;/a&gt;WEEK1|MISC&lt;/h1&gt;&lt;h2 id=&quot;CyberChef’s-Secret&quot;&gt;&lt;a</summary>
+    <summary type="html">&lt;h1&gt;WEEK1|MISC&lt;/h1&gt;
+&lt;h2 id=&quot;CyberChef’s-Secret&quot;&gt;CyberChef’s Secret&lt;/h2&gt;
+&lt;p&gt;先看题目，为编码转换类型。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
         
       
     
@@ -160,9 +160,7 @@
     <category term="CTF" scheme="https://hello-hayi.github.io/categories/CTF/"/>
     
     
-    <category term="CTF" scheme="https://hello-hayi.github.io/tags/CTF/"/>
-    
-    <category term="WriteUp" scheme="https://hello-hayi.github.io/tags/WriteUp/"/>
+    <category term="CTF-WriteUp" scheme="https://hello-hayi.github.io/tags/CTF-WriteUp/"/>
     
   </entry>
   
@@ -171,7 +169,7 @@
     <link href="https://hello-hayi.github.io/2023/10/22/FSCTF-2023-WriteUp/"/>
     <id>https://hello-hayi.github.io/2023/10/22/FSCTF-2023-WriteUp/</id>
     <published>2023-10-22T15:13:25.000Z</published>
-    <updated>2024-02-06T12:32:42.518Z</updated>
+    <updated>2024-03-15T11:03:29.966Z</updated>
     
     
       
@@ -182,7 +180,9 @@
 &lt;p&gt;总排名：8&lt;/p&gt;
 &lt;p&gt;分数：6696&lt;/p&gt;
 &lt;p&gt;解题数：19&lt;/p&gt;
-&lt;h1 id=&quot;WEB-源码！启动！&quot;&gt;&lt;a href=&quot;#WEB-源码！启动！&quot; class=&quot;headerlink&quot; title=&quot;WEB -</summary>
+&lt;h1&gt;WEB - 源码！启动！&lt;/h1&gt;
+&lt;p&gt;先看题目：”源码“提示可能需要查看网页源代码。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
         
       
     
@@ -191,9 +191,7 @@
     <category term="CTF" scheme="https://hello-hayi.github.io/categories/CTF/"/>
     
     
-    <category term="CTF" scheme="https://hello-hayi.github.io/tags/CTF/"/>
-    
-    <category term="WriteUp" scheme="https://hello-hayi.github.io/tags/WriteUp/"/>
+    <category term="CTF-WriteUp" scheme="https://hello-hayi.github.io/tags/CTF-WriteUp/"/>
     
   </entry>
   
