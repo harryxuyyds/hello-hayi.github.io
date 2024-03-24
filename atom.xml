@@ -6,7 +6,7 @@
   <link href="https://hello-hayi.github.io/atom.xml" rel="self"/>
   
   <link href="https://hello-hayi.github.io/"/>
-  <updated>2024-03-23T16:17:04.492Z</updated>
+  <updated>2024-03-24T06:12:24.057Z</updated>
   <id>https://hello-hayi.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于一站式交通出行解决方案项目的策划案</title>
+    <link href="https://hello-hayi.github.io/2024/03/24/2024-Hayi-GO_DevPlan/"/>
+    <id>https://hello-hayi.github.io/2024/03/24/2024-Hayi-GO_DevPlan/</id>
+    <published>2024-03-24T06:09:50.000Z</published>
+    <updated>2024-03-24T06:12:24.057Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    <category term="Python" scheme="https://hello-hayi.github.io/categories/Python/"/>
+    
+    
+    <category term="项目" scheme="https://hello-hayi.github.io/tags/%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>2024-Work-Todo-List</title>
@@ -28,9 +47,12 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;已经完成的项目&quot;&gt;&lt;a href=&quot;#已经完成的项目&quot; class=&quot;headerlink&quot; title=&quot;已经完成的项目&quot;&gt;&lt;/a&gt;已经完成的项目&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;校园教务教学综合信息管理服务平台&lt;/p&gt;
-&lt;p&gt;​	2024.1.19 ~</summary>
+    <summary type="html">&lt;h1&gt;已经完成的项目&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;校园教务教学综合信息管理服务平台&lt;/p&gt;
+&lt;p&gt;​	2024.1.19 ~ 2024.1.28&lt;/p&gt;
+&lt;p&gt;​	Base: Python.tkinter,</summary>
         
       
     
@@ -74,7 +96,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;当前阶段可用的方案&quot;&gt;&lt;a href=&quot;#当前阶段可用的方案&quot; class=&quot;headerlink&quot; title=&quot;当前阶段可用的方案&quot;&gt;&lt;/a&gt;当前阶段可用的方案&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;K7042&lt;/strong&gt; ：漠河站 至 哈尔滨站 15:32</summary>
+    <summary type="html">&lt;h1&gt;当前阶段可用的方案&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;K7042&lt;/strong&gt; ：漠河站 至 哈尔滨站 15:32 —— 09:42 (+1) 坐硬座会没小半条命，可接受~&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;T244&lt;/strong&gt; ：哈尔滨站 至 长春站 10:44</summary>
         
       
     
@@ -166,7 +190,10 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;WEEK1-MISC&quot;&gt;&lt;a href=&quot;#WEEK1-MISC&quot; class=&quot;headerlink&quot; title=&quot;WEEK1|MISC&quot;&gt;&lt;/a&gt;WEEK1|MISC&lt;/h1&gt;&lt;h2 id=&quot;CyberChef’s-Secret&quot;&gt;&lt;a</summary>
+    <summary type="html">&lt;h1&gt;WEEK1|MISC&lt;/h1&gt;
+&lt;h2 id=&quot;CyberChef’s-Secret&quot;&gt;CyberChef’s Secret&lt;/h2&gt;
+&lt;p&gt;先看题目，为编码转换类型。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
         
       
     
@@ -195,7 +222,9 @@
 &lt;p&gt;总排名：8&lt;/p&gt;
 &lt;p&gt;分数：6696&lt;/p&gt;
 &lt;p&gt;解题数：19&lt;/p&gt;
-&lt;h1 id=&quot;WEB-源码！启动！&quot;&gt;&lt;a href=&quot;#WEB-源码！启动！&quot; class=&quot;headerlink&quot; title=&quot;WEB -</summary>
+&lt;h1&gt;WEB - 源码！启动！&lt;/h1&gt;
+&lt;p&gt;先看题目：”源码“提示可能需要查看网页源代码。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
         
       
     
